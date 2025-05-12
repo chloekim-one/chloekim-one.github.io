@@ -23,6 +23,27 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-extracurricular",
+          title: "extracurricular",
+          description: "extracurricular works",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/extracurricular/";
+          },
+        },{id: "nav-community-service",
+          title: "community service",
+          description: "community service",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/commserv/";
+          },
+        },{id: "nav-travels",
+          title: "travels",
+          description: "travels--worldwide",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/travel/";
+          },
         },{id: "nav-others",
           title: "others",
           description: "funny things",
