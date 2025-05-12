@@ -13,9 +13,10 @@
       "region": "Michigan"
     }
   },
-  "Experience and Internships": [
+  "work": [
     {
       "position": "Lawfirm Seoil",
+      "name": "Intern researcher",      
       "location": "Seoul, Korea",
       "startDate": "2024-06",
       "endDate": "2025-01",
@@ -24,13 +25,23 @@
     },
     {
       "position": "Quilt.ai",
+      "name": "Intern researcher",            
       "location": "MA, USA",
       "url": "https://quilt.ai",
       "startDate": "2024-07",
       "endDate": "2024-11",
       "summary": "TBA",
       "highlights": ["AI", "Narratives"]
-    }    
+    },
+    {
+      "position": "Elroi.ai",
+      "name": "Intern researcher",            
+      "location": "MI, USA",
+      "startDate": "2025-04",
+      "endDate": "2025-12",
+      "summary": "TBA",
+      "highlights": ["AI", "Data privacy"]
+    },    
   ],
   "volunteer": [
     {
