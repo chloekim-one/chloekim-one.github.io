@@ -1,28 +1,28 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Chloe Kim",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ckim(two)(six)[at]cranbrook[dot]edu",
+    "url": "chloekim.one",
+    "summary": "TBA",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "39221 Woodward Avenue",
+      "postalCode": "MI 48304",
+      "city": "Bloomfield Hills",
       "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
+      "region": "Michigan"
+    }
+  },  
   "work": [
+   {
+      "position": "Lawfirm Seoil",
+      "name": "Intern researcher",      
+      "location": "Seoul, Korea",
+      "startDate": "2024-06",
+      "endDate": "2025-01",
+      "summary": "TBA",
+      "highlights": ["AI", "Network"]
+    },
     {
       "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
