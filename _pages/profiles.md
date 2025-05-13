@@ -13,4 +13,4 @@ profiles:
 #    image: <a href='https://chloekim.one/assets/img/bg.jpg'>https://chloekim.one/assets/img/bg-1400.webp</a>
 ---
 
-    <img src="/assets/img/bg.jpg" alt="Image Description">
+    <a href="/assets/img/bg.jpg"><img src="/assets/img/bg.jpg"></a>
