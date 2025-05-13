@@ -1,5 +1,5 @@
 ---
-layout: profiles
+layout: page
 permalink: /others/
 title: others
 description: funny things
