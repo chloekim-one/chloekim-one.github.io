@@ -39,6 +39,8 @@ TBA.
 TBA. 
 TBA. 
 
+<a href='/assets/img/bg.jpg'><img src='/assets/img/bg.jpg'></a>
+
 ### 📫 Contact
 
 - [@chloekim-one](https://github.com/chloekim-one)
