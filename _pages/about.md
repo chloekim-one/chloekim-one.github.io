@@ -39,7 +39,9 @@ TBA.
 TBA. 
 TBA. 
 
-<a href='/assets/img/bg.jpg'><img src='/assets/img/bg.jpg' width=300></a>
+
+<a href='/assets/img/bg.jpg'><img src='/assets/img/bg.jpg' width=300 class='center'></a>
+
 
 ### 📫 Contact
 
