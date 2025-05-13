@@ -36,15 +36,7 @@
       "endDate": "20205-01",
       "summary": "AI, Network",
       "highlights": ["AI"]
-    },
-    {
-      "name": "Intern researcher",
-      "position": "Quilt.ai",
-      "startDate": "2024-06",
-      "endDate": "20205-01",
-      "summary": "AI, Network",
-      "highlights": ["AI"]
-    }    
+    }
   ],
   "volunteer": [
     {
@@ -87,14 +79,10 @@
       "keywords": [
         "Quantum Mechanics",
         "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
         "Quantum Teleportation"
       ]
     }
   ],
-
   "certificates": [
     {
       "name": "Machine Learning",
