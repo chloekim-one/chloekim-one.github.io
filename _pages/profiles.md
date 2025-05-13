@@ -6,7 +6,7 @@ description: funny things
 nav: true
 nav_order: 15
 
-profiles:
+#profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
 #  - align: left
@@ -14,7 +14,6 @@ profiles:
 
     This is an example post with advanced image components.
 
-## Image Slider
 
 This is a simple image slider. It uses the [Swiper](https://swiperjs.com/) library. Check the [examples page](https://swiperjs.com/demos) for more information of what you can achieve with it.
 
