@@ -6,28 +6,6 @@
     "url": "https://chloekim.one",
     "summary": "TBA"
   },
-  "work": [
-    {
-      "name": "Intern researcher",
-      "position": "Lawfirm Seoil",
-      "startDate": "2024-06",
-      "endDate": "20205-01",
-      "summary": "AI, Network",
-      "highlights": ["AI"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
       "institution": "University of Zurich, Zurich, Switzerland",
@@ -39,6 +17,35 @@
       "endDate": "1905-01-01",
       "score": "10",
       "courses": ["Theory of Relativity"]
+    }
+  ],  
+  "work": [
+    {
+      "name": "Intern researcher",
+      "position": "Lawfirm Seoil",
+      "startDate": "2024-06",
+      "endDate": "20205-01",
+      "summary": "AI, Network",
+      "highlights": ["AI"]
+    },
+    {
+      "name": "Intern researcher",
+      "position": "Quilt.ai",
+      "startDate": "2024-06",
+      "endDate": "20205-01",
+      "summary": "AI, Network",
+      "highlights": ["AI"]
+    }    
+  ],
+  "volunteer": [
+    {
+      "organization": "Human Rights, North Korea",
+      "location": "Seoul, Korea",
+      "position": "Intern",
+      "startDate": "2023-07",
+      "endDate": "2023-08",
+      "summary": "TBA",
+      "highlights": ["ABC"]
     }
   ],
   "awards": [
