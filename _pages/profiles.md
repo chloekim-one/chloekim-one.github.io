@@ -6,11 +6,12 @@ description: funny things
 nav: true
 nav_order: 15
 
-#profiles:
+profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
 #  - align: left
 #    image: <a href='https://chloekim.one/assets/img/bg.jpg'>https://chloekim.one/assets/img/bg-1400.webp</a>
+---
 
     This is an example post with advanced image components.
 
@@ -24,4 +25,4 @@ This is a simple image slider. It uses the [Swiper](https://swiperjs.com/) libra
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/10.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/12.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
----
+
