@@ -11,7 +11,4 @@ profiles:
   # and create one content file for each profile inside _pages/
 #  - align: left
 #    image: <a href='https://chloekim.one/assets/img/bg.jpg'>https://chloekim.one/assets/img/bg-1400.webp</a>
-
-        {% include figure.liquid loading="eager" path="assets/img/9.jpg" class="img-fluid rounded z-depth-1" %}
-
 ---
