@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Intuition and Semantic Reasoning in AI
-description: with background image
+description: Intuition and Semantic Reasoning in AI
 img: assets/img/12.jpg
-importance: 1
+importance: 3
 category: work
 related_publications: false
 ---
@@ -16,3 +16,4 @@ We experimentally analyze how association stimuli are processed through distinct
 To verify this, we conduct experiments with both a diverse cross-linguistic and cross-cultural human participant group (n ≃ 40; including Korean, Chinese, English, French, and Hindi speakers) and an LLM (GPT-4). Shape categorization classifies the imagined (in the case of humans) and generated images (in the case of the LLM) into basic geometric forms such as circles, triangles, and rectangles. Results show that humans rely on pre-existing intuitive mappings between sound and shape, performing direct sensory-to-visual transfers without explicit learning. By contrast, LLM outputs (expression of shapes) are generated through prior semantic knowledge learned from language corpora, reflecting a meaning-driven reasoning process.
 
 We identify a fundamental gap between human intuition-based learning and LLMs’ meaning-based learning. These findings enhance our understanding of multimodal perception and generative mechanisms in foundation models (fundamental AI models).
+
