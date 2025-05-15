@@ -32,7 +32,7 @@ profiles:
 ---
 
 - Club Activities
--	Lab intern, Research, Conference Presentations (Oral 2 | Posters 2)
+-	Lab intern, Research, Conference Presentations (Oral 2 and Posters 2)
 -	Orchestra
 -	Rowing Cox
 -	Debate
