@@ -3,7 +3,7 @@ layout: page
 title: Network Analysis of Medical Legal Citation (AI and Graphs)
 description: Network Analysis of Medical Legal Citation (AI and Graphs)
 img: assets/img/7.jpg
-importance: 3
+importance: 1
 category: work
 related_publications: false
 ---
