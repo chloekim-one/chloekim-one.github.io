@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/researches/";
           },
+        },{id: "nav-academic-excellence",
+          title: "academic excellence",
+          description: "academic excellence",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/academic/";
+          },
         },{id: "nav-extracurricular",
           title: "extracurricular",
           description: "extracurricular works",
