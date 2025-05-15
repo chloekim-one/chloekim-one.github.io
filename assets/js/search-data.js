@@ -433,14 +433,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-",
+            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-",
           title: '',
           description: "",
           section: "News",},{id: "news-website-born",
           title: 'Website born!',
-          description: "",
-          section: "News",},{id: "news-updating-revision-3-sparkles-smile",
-          title: 'Updating – revision 3 :sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-intuition-and-semantic-reasoning-in-ai",
           title: 'Intuition and Semantic Reasoning in AI',
