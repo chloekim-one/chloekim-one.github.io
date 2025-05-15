@@ -449,8 +449,8 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
+            },},{id: "projects-ai-on-mallampati-scoring-and-endoscopy",
+          title: 'AI on Mallampati Scoring and Endoscopy',
           description: "Interpretability for Automated Mallampati Scoring and Endoscopy",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
