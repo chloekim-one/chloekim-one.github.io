@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
+title: AI on Mallampati Scoring and Endoscopy
 description: Interpretability for Automated Mallampati Scoring and Endoscopy
 img: assets/img/3.jpg
 importance: 2
 category: work
-giscus_comments: true
+related_publications: false
 ---
 
 Multimodal Deep Learnings and Interpretability for Automated Mallampati Scoring and Endoscopy Prediction
