@@ -433,8 +433,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-",
-          title: '',
+            },},{id: "news-three-research-presentations-accepted-at-hai-ai-as-well-as-euro-optimization-and-ai",
+          title: 'Three research presentations accepted! at HAI (AI) as well as EURO (Optimization and...',
           description: "",
           section: "News",},{id: "news-website-born",
           title: 'Website born!',
