@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
+title: Network Analysis of Medical Legal Citation (AI and Graphs)
 description: Network Analysis of Medical Legal Citation (AI and Graphs)
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
 category: work
+related_publications: false
 ---
 
 Complex Network Analysis of Legal Citation Networks (esp. medical) in South Korea (1951–2023)
@@ -18,7 +18,3 @@ Segmenting the network along presidential cycles reveals that the distribution o
 From an optimization perspective, we apply the minimum dominating set (MDS) approach, supplemented by AI-assisted heuristics, to extract a minimal influential subset within the medical subnetwork. Complexity analysis shows power-law degree distributions with the exponent approximately 2.1, indicating scale-free characteristics. An AI-assisted optimization, balancing sparsification and policy relevance, facilitates a more targeted identification of legally and policy-relevant cases.
 
 We suggest quantitative investigations into the structural features and dynamic evolution of legal citation networks in the medical domain. These provide practical implications for legal and policy decision-making in healthcare governance.
-
-
-
-
