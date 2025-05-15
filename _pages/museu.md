@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /museums/
 title: museums
-description: museums--worldwide
+description: --worldwide
 nav: true
 nav_order: 10
 
