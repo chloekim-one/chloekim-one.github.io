@@ -446,7 +446,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-intuition-and-semantic-reasoning-in-ai",
           title: 'Intuition and Semantic Reasoning in AI',
-          description: "with background image",
+          description: "Intuition and Semantic Reasoning in AI",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-ai-on-mallampati-scoring-and-endoscopy",
