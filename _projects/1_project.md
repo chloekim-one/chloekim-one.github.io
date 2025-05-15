@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Intuition and Semantic Reasoning in AI
 description: with background image
 img: assets/img/12.jpg
 importance: 1
@@ -8,74 +8,11 @@ category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+An Experimental Analysis of Intuition and Semantic Reasoning in Linguistic Visualizations by Humans and AI (LLMs)
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+We experimentally analyze how association stimuli are processed through distinct cognitive mechanisms by humans and AI (large language models, LLMs) in visual generation tasks based on linguistic association. As stimuli, we employ nonsymbolic sound words (non-symbolic sounds), which represent meaningless but structured sound sequences. This study focuses on the contrast between human intuition and LLMs' learned semantic reasoning. Humans tend to visualize ‘sound-associated words’ without prior learning, relying on immediate sensory and affective cues to produce intuitive forms—curves or pointed shapes. In contrast, LLMs such as GPT map these words onto shapes based on large-scale text-driven knowledge, using semantic structures and statistical patterns. 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+To verify this, we conduct experiments with both a diverse cross-linguistic and cross-cultural human participant group (n ≃ 40; including Korean, Chinese, English, French, and Hindi speakers) and an LLM (GPT-4). Shape categorization classifies the imagined (in the case of humans) and generated images (in the case of the LLM) into basic geometric forms such as circles, triangles, and rectangles. Results show that humans rely on pre-existing intuitive mappings between sound and shape, performing direct sensory-to-visual transfers without explicit learning. By contrast, LLM outputs (expression of shapes) are generated through prior semantic knowledge learned from language corpora, reflecting a meaning-driven reasoning process.
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+We identify a fundamental gap between human intuition-based learning and LLMs’ meaning-based learning. These findings enhance our understanding of multimodal perception and generative mechanisms in foundation models (fundamental AI models).
