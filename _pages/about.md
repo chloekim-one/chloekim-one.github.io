@@ -35,8 +35,10 @@ I'm a Kingwood student passionate about **AI**, **public health**, **medical law
 
 - Relevance to intended major: Linguistics, Biology then Medical
 
-- Emergence (depth): (a) 
+- Emergence (depth):
+  
 ①	Long-lasting interest is converted to research results
+
 ②	Interdisciplinary works -- AI+medical, AI+lingustics and AI+ Law
 
 - Notable Accomplishment (Proficiency/Capability): Recognition in Academia -- Presentation spotlight section (in short list)
