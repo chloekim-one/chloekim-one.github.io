@@ -12,7 +12,7 @@ profiles:
   - align: right
     image: prof_pic3.jpg
     #content: about_einstein.md
-    more_info: ABC
+    #more_info: ABC
     
     #image_circular: false # crops the image to make it circular
     #more_info: >
