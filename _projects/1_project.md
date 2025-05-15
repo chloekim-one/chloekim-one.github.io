@@ -5,7 +5,7 @@ description: with background image
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 An Experimental Analysis of Intuition and Semantic Reasoning in Linguistic Visualizations by Humans and AI (LLMs)
