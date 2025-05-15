@@ -22,7 +22,7 @@ profiles:
   - align: left
     image: prof_pic2.jpg
     #content: about_einstein.md
-    more_info: DEF
+    #more_info: DEF
 
     #image_circular: false # crops the image to make it circular
     #more_info: >
