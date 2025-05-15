@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /commserv/
-title: community service
-description: community service
+title: service and contribution
+description: service and contribution
 nav: true
 nav_order: 8
 
