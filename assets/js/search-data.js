@@ -53,7 +53,7 @@ ninja.data = [{
           },
         },{id: "nav-museums",
           title: "museums",
-          description: "museums--worldwide",
+          description: "--worldwide",
           section: "Navigation",
           handler: () => {
             window.location.href = "/museums/";
