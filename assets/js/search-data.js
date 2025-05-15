@@ -454,8 +454,8 @@ ninja.data = [{
           description: "Interpretability for Automated Mallampati Scoring and Endoscopy",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
+            },},{id: "projects-network-analysis-of-medical-legal-citation-ai-and-graphs",
+          title: 'Network Analysis of Medical Legal Citation (AI and Graphs)',
           description: "Network Analysis of Medical Legal Citation (AI and Graphs)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
