@@ -51,13 +51,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/travel/";
           },
-        },{id: "nav-museums",
-          title: "museums",
-          description: "museums--worldwide",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/museums/";
-          },
         },{id: "nav-others",
           title: "others",
           description: "funny things",
