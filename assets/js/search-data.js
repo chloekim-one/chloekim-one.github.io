@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-academic-excellence",
           title: "academic excellence",
-          description: "academic excellence",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/academic/";
@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-service-and-contribution",
           title: "service and contribution",
-          description: "service and contribution",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/commserv/";
