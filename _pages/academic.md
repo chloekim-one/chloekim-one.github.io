@@ -30,3 +30,13 @@ profiles:
     #  <p>123 your address street</p>
     #  <p>Your City, State 12345</p>
 ---
+
+-	Rigorous Courses and Higher GPA
+-	AP (Chem, US History, Language, Bio, Com-Sci, Statistics, Calculus BC, Latin, etc)
+-	SAT 1560
+-	Awards
+
+①	Rigor Level: Rigorous Course Selection -- Personal researchers and Classes (stat,bio)
+②	Academic Perseverance: Latin, Mathematics -- Growing GPAs
+③	Notable Accomplishment: Awards
+
