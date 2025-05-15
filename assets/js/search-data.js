@@ -39,21 +39,21 @@ ninja.data = [{
           },
         },{id: "nav-service-and-contribution",
           title: "service and contribution",
-          description: "service and contribution",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/commserv/";
           },
         },{id: "nav-travels",
           title: "travels",
-          description: "travels--worldwide",
+          description: "--worldwide",
           section: "Navigation",
           handler: () => {
             window.location.href = "/travel/";
           },
         },{id: "nav-museums",
           title: "museums",
-          description: "museums--worldwide",
+          description: "--worldwide",
           section: "Navigation",
           handler: () => {
             window.location.href = "/museums/";
