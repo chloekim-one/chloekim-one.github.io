@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /travel/
 title: travels
-description: travels--worldwide
+description: --worldwide
 nav: true
 nav_order: 9
 
