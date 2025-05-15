@@ -36,9 +36,9 @@ profiles:
 -	SAT 1560
 -	Awards
 
-     ①	Rigor Level: Rigorous Course Selection -- Personal researchers and Classes (stat,bio)
+        ①	Rigor Level: Rigorous Course Selection -- Personal researchers and Classes (stat,bio)
 
-     ②	Academic Perseverance: Latin, Mathematics -- Growing GPAs
+        ②	Academic Perseverance: Latin, Mathematics -- Growing GPAs
 
-     ③	Notable Accomplishment: Awards
+        ③	Notable Accomplishment: Awards
 
