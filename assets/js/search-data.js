@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-extracurricular",
           title: "extracurricular",
-          description: "extracurricular works",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/extracurricular/";
