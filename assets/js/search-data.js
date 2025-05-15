@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-travels",
           title: "travels",
-          description: "travels--worldwide",
+          description: "--worldwide",
           section: "Navigation",
           handler: () => {
             window.location.href = "/travel/";
