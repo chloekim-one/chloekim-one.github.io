@@ -31,16 +31,7 @@ latest_posts:
 
 Welcome to my personal website.  
 I'm a Kingwood student passionate about **AI**, **public health**, **medical law**, **biology**, and **linguistics**.
-TBA. 
-TBA. 
-TBA. 
-TBA. 
-TBA. 
-TBA. 
-TBA. 
 
-
-<a href='/assets/img/bg.jpg'><img src='/assets/img/bg.jpg' width=300 class='center'></a>
 
 
 ### 📫 Contact
