@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /commserv/
 title: service and contribution
-description: service and contribution
+#description: service and contribution
 nav: true
 nav_order: 8
 
