@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /extracurricular/
 title: extracurricular
-description: extracurricular works
+#description: extracurricular works
 nav: true
 nav_order: 7
 
