@@ -30,3 +30,16 @@ profiles:
     #  <p>123 your address street</p>
     #  <p>Your City, State 12345</p>
 ---
+
+- Club Activities
+-	Lab intern, Research, Conference Presentations (Oral 2 | Posters 2)
+-	Orchestra
+-	Rowing Cox
+-	Debate
+-	Patent (documeting)
+
+①	Sustained Commitment: More than three years -- Varsity, Orchestra, Research
+
+②	High-level Engagement: Professional Researches in Academic Circle and their Recognition (Acedemic Conferences)
+
+③	Notable Accomplishment: Regatta, Debate, Violin and Orchestra, and Spotlight presentations
