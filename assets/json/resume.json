@@ -43,6 +43,56 @@
       "courses": ["English, Violin, Volunteers"]
     }
   ],  
+  "research outcomes": [
+    {
+      "name": "EURO 2025",
+      "summary": "TBA",
+      "highlights": ["Presented at Helmholtz AI (2025)"],
+      "date": "2025"
+    },
+    {
+      "name": "Helmholtz AI",
+      "summary": "TBA",
+      "highlights": ["Presented at Helmholtz AI (2025)", "Spotlight Presetation List"],
+      "date": "2025"
+    },
+    {
+      "name": "Helmholtz AI",
+      "summary": "TBA",
+      "highlights": ["Presented at EURO-2025 (50th European Union Optimization Conference)"],
+      "date": "2025"
+    },
+    {
+      "name": "Patent",
+      "summary": "TBA",
+      "highlights": ["PCont1", "PCont2"],
+      "date": "2025"
+    },
+    {
+      "name": "SW Registered 1",
+      "summary": "TBA",
+      "highlights": ["Cont1"],
+      "date": "2025"
+    },
+    {
+      "name": "SW Registered 2",
+      "summary": "TBA",
+      "highlights": ["Cont2"],
+      "date": "2025"
+    },
+    {
+      "name": "SW Registered 3",
+      "summary": "TBA",
+      "highlights": ["Cont1"],
+      "date": "2025"
+    },
+    {
+      "name": "SW Registered 4",
+      "summary": "TBA",
+      "highlights": ["Cont4"],
+      "date": "2025"
+    }    
+  ],  
   "work": [
     {
       "position": "Lawfirm HoAm",
