@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-## Hello 👋!
+## Hello 👋
 
 Welcome to my website.  
 I'm a Kingwood student passionate about **Mind**, **Behaviors**, and **Brain**(Intelligence). 
