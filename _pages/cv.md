@@ -4,7 +4,8 @@ permalink: /resume/
 title: resume
 nav: true
 nav_order: 3
-description: my resume
-sidebar: right
-cv_pdf: ##example_cv.pdf #example_pdf.pdf # you can also use external links here
+cv_pdf: #example_pdf.pdf # you can also use external links here
+description: My CV #This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+toc:
+sidebar: left
 ---
