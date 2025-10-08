@@ -38,9 +38,8 @@ They are inter-linked and deeply related to **biology**, and **linguistics**.
 
     - Interdisciplinary Works -- {AI + lingustics/medical/law}
     
-    - Notable Proficiency/Capability in researches
-    - Notable Accomplishment (Proficiency/Capability): 
-        Recognition in Academia -- presentations
+    - Notable Proficiency/Capability in researches: 
+      Recognition in Academia -- presentations
 
 
 
