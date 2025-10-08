@@ -13,6 +13,24 @@
       "region": "Michigan"
     }
   },
+  "interests": [
+    {
+      "name": "Linguistics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Latin",
+        "Language Evolution"
+      ]
+    },
+    {
+      "name": "Biology",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Medical and public health",
+        "Ecology"
+      ]
+    }
+  ],  
   "education": [
     {
       "institution": "Higschooler",
@@ -182,25 +200,6 @@
       "fluency": "Fluent",
       "icon": ""
     }
-  ],
-  "interests": [
-    {
-      "name": "Linguistics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Latin",
-        "Language Evolution"
-      ]
-    },
-    {
-      "name": "Biology",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Medical and public health",
-        "Ecology"
-      ]
-    }
-    
   ],
   "references": [
     {
