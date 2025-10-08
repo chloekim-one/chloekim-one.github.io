@@ -28,7 +28,7 @@ ninja.data = [{
           description: "academic excellence",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/academics/";
+            window.location.href = "/academic/";
           },
         },{id: "nav-extracurricular",
           title: "extracurricular",
