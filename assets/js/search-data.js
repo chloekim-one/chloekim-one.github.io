@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-resume",
           title: "resume",
-          description: "",
+          description: "my resume",
           section: "Navigation",
           handler: () => {
             window.location.href = "/resume/";
@@ -28,7 +28,7 @@ ninja.data = [{
           description: "academic excellence",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/academic/";
+            window.location.href = "/academics/";
           },
         },{id: "nav-extracurricular",
           title: "extracurricular",
