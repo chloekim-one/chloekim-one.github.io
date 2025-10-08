@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-resume",
           title: "resume",
-          description: "",
+          description: "my resume",
           section: "Navigation",
           handler: () => {
             window.location.href = "/resume/";
@@ -434,6 +434,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-updating-revision-3-sparkles-smile",
           title: 'Updating – revision 3 :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-presentations-are-well-performed-in-helmholtz-ai-2025-june-in-karlsruhe-germany-one-spotlight-speech-and-two-posters",
+          title: 'Presentations are well performed in Helmholtz AI 2025 (June) in Karlsruhe, Germany: One...',
+          description: "",
+          section: "News",},{id: "news-presentation-is-well-performed-in-european-34th-european-conference-on-operational-research-in-leeds-uk",
+          title: 'Presentation is well performed in European 34th European Conference on Operational Research in...',
           description: "",
           section: "News",},{id: "projects-intuition-and-semantic-reasoning-in-ai",
           title: 'Intuition and Semantic Reasoning in AI',
