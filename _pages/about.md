@@ -32,13 +32,6 @@ latest_posts:
 Welcome to my personal website.  
 I'm a Kingwood student passionate about **AI**, **public health**, **medical law**, **biology**, and **linguistics**.
 
-
-  - Relevance to intended major: Linguistics, Biology then Medical
-
-  - Interdisciplinary works -- {AI + medical}, {AI + lingustics} and {AI + Law}
-  
-
-  - Emergence (depth):
   
         - Relevance to intended major: Linguistics, Biology then Medical
 
