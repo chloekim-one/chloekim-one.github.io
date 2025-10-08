@@ -35,7 +35,7 @@ TBU (as of May 2025)
   - Museum of London
   - Leeds City Museum
   - Royal Observatory (Greenwich)
-  - <a class="snapchat" style="margin: 5px 5px 0 -2px;" target="_blank" href="#">Hover for effect<img src="https://www.bmimages.com/images/home/carousel/victoria_carousel.jpg" /></a>
+  - <a class="snapchat" style="margin: 5px 5px 0 -2px;" target="_blank" href="#">Hover for effect  <img src="https://www.bmimages.com/images/home/carousel/victoria_carousel.jpg" /></a>
 			
 ㅇ France: Paris 
   - Musee du Louvre
