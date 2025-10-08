@@ -33,13 +33,13 @@ Welcome to my personal website.
 I'm a Kingwood student passionate about **AI**, **public health**, **medical law**, **biology**, and **linguistics**.
 
   
-        - Relevance to intended major: Linguistics, Biology then Medical
+        - Intended Major: Cognition, Intelligence, Biology, Liguistics
 
-        - Interdisciplinary works -- {AI + medical}, {AI + lingustics} 
-        and {AI + Law}
+        - Interdisciplinary Works -- {AI + lingustics/medical/law}
     
-        - Notable Accomplishment (Proficiency/Capability): 
-        Recognition in Academia -- Presentation spotlight section
+        - Notable Proficiency/Capability in researches
+
+        - Recognition in Academia -- presentations
 
 
 
