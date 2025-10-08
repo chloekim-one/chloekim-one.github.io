@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /academic/
-title: academic excellence
-#description: academic excellence
+title: academics# excellence
+description: academic excellence
 nav: true
 nav_order: 6
 
