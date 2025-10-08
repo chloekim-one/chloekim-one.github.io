@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/extracurricular/";
           },
-        },{id: "nav-service-and-contribution",
-          title: "service and contribution",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/commserv/";
-          },
         },{id: "nav-travels",
           title: "travels",
           description: "--worldwide",
