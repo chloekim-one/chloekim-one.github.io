@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://schools.cranbrook.edu/'>Cranbrook Kingswood Schools</a>. #Address. Contacts. Motto. Etc.
+subtitle: <a href='https://schools.cranbrook.edu/'>Cranbrook Kingswood Schools</a> #Address. Contacts. Motto. Etc.
 
 profile:
   align: right
