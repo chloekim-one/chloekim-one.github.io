@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://schools.cranbrook.edu/'>Cranbrook Kingswood Schools</a> (Bloomfield Hills, MI 48304) #Address. Contacts. Motto. Etc.
+subtitle: <a href="https://schools.cranbrook.edu/">Cranbrook Kingswood Schools</a> (Bloomfield Hills, MI 48304) #Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -30,7 +30,8 @@ latest_posts:
 ## Hello 👋!
 
 Welcome to my website.  
-I'm a Kingwood student passionate about **AI**, **public health**, **medical law**, **biology**, and **linguistics**.
+I'm a Kingwood student passionate about **Mind**, **Behaviors**, and **Brain**(Intelligence). 
+They are inter-linked and deeply related to **biology**, and **linguistics**.
 
   
     - Intended Major: Cognition, Intelligence, Biology, Liguistics
