@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/researches/";
           },
-        },{id: "nav-academic-excellence",
-          title: "academic excellence",
-          description: "",
+        },{id: "nav-academics-excellence",
+          title: "academics# excellence",
+          description: "academic excellence",
           section: "Navigation",
           handler: () => {
             window.location.href = "/academic/";
