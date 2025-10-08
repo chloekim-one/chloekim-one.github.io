@@ -90,7 +90,16 @@
       "endDate": "2015-07-01",
       "summary": "TBA",
       "highlights": ["TBA"]
-    }
+    },
+    {
+      "organization": "Volunteer Work",
+      "location": "Seoul, Korea",
+      "position": "Human Rights for North Korea",
+      "startDate": "2014-04-01",
+      "endDate": "2015-07-01",
+      "summary": "TBA",
+      "highlights": ["TBA"]
+    }    
   ],
   "awards": [
     {
@@ -146,26 +155,6 @@
       "endDate": "2025"
     }    
   ],  
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2014",
-      "issuer": "OCW",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "AI LLM",
-      "date": "2024",
-      "issuer": "OCW",
-      "icon": "fa-solid fa-clipboard-check"
-    },
-    {
-      "name": "Biology and Linguistics",
-      "date": "2024",
-      "issuer": "Harvard University",
-      "icon": "fa-solid fa-clipboard-check"
-    }    
-  ],
   "skills": [
     {
       "name": "AI",
@@ -215,14 +204,29 @@
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Ms. H",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "CC"
     },
     {
-      "name": "Professor John Doe",
+      "name": "T. Bo",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
+      "reference": "Bo"
+    },
+    {
+      "name": "T. Hst",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Ht"
+    },
+    {
+      "name": "Mr. Mk",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Qa"
+    },
+    {
+      "name": "Mr. S. Kim",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "La"
+    }    
   ]
 }
