@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /academic/
+permalink: /academics/
 title: academics
 description: academic excellence
 nav: true
