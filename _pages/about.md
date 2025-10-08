@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://schools.cranbrook.edu/'>Cranbrook Kingswood Schools</a> #Address. Contacts. Motto. Etc.
+subtitle: <a href='https://schools.cranbrook.edu/'>Cranbrook Kingswood Schools</a> Bloomfield Hills, MI 48304. #Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>39221 Woodward Avenue</p>
-    <p>Cranbrook Kingswood Schools</p>
-    <p>Bloomfield Hills, MI 48304.</p>
+#    <p>39221 Woodward Avenue</p>
+#    <p>Cranbrook Kingswood Schools</p>
+#    <p>Bloomfield Hills, MI 48304.</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -38,8 +38,8 @@ I'm a Kingwood student passionate about **AI**, **public health**, **medical law
         - Interdisciplinary Works -- {AI + lingustics/medical/law}
     
         - Notable Proficiency/Capability in researches
-
-        - Recognition in Academia -- presentations
+        - Notable Accomplishment (Proficiency/Capability): 
+          Recognition in Academia -- presentations
 
 
 
