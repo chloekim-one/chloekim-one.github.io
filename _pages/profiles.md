@@ -2,7 +2,7 @@
 layout: page
 permalink: /others/
 title: others
-description: funny things
+description: #funny things
 nav: true
 nav_order: 15
 
