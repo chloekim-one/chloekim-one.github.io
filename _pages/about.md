@@ -33,12 +33,12 @@ Welcome to my website.
 I'm a Kingwood student passionate about **AI**, **public health**, **medical law**, **biology**, and **linguistics**.
 
   
-      - Intended Major: Cognition, Intelligence, Biology, Liguistics
+    - Intended Major: Cognition, Intelligence, Biology, Liguistics
 
-      - Interdisciplinary Works -- {AI + lingustics/medical/law}
+    - Interdisciplinary Works -- {AI + lingustics/medical/law}
     
-      - Notable Proficiency/Capability in researches
-      - Notable Accomplishment (Proficiency/Capability): 
+    - Notable Proficiency/Capability in researches
+    - Notable Accomplishment (Proficiency/Capability): 
         Recognition in Academia -- presentations
 
 
