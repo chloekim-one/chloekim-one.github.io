@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presentation is well performed in European 34th European Conference on Operational Research in Leeds, UK.
+Presentation is well performed in European 34th European Conference on Operational Research (EURO 2025) (June) in Leeds, UK.
