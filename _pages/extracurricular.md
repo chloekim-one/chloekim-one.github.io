@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /extracurricular/
-title: extracurricular
-#description: extracurricular works
+title: activities & service
+description: extracurricular works and community service
 nav: true
 nav_order: 7
 
