@@ -35,9 +35,11 @@ I'm a Kingwood student passionate about **AI**, **public health**, **medical law
   
         - Relevance to intended major: Linguistics, Biology then Medical
 
-        - Interdisciplinary works -- {AI + medical}, {AI + lingustics} and {AI + Law}
+        - Interdisciplinary works -- {AI + medical}, {AI + lingustics} 
+        and {AI + Law}
     
-        - Notable Accomplishment (Proficiency/Capability): Recognition in Academia -- Presentation spotlight section
+        - Notable Accomplishment (Proficiency/Capability): 
+        Recognition in Academia -- Presentation spotlight section
     
 
 ### 📫 Contact
