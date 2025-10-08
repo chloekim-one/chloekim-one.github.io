@@ -23,3 +23,24 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+
+a.snapchat {
+  position: relative;
+  background: lightgrey;
+}
+
+a.snapchat img {
+  position: absolute;
+  opacity: 0;
+  width: 100px;
+  height: 100px;
+  left: 0;
+  top: -20px;
+  transition: opacity .5s, top .5s;
+}
+
+a.snapchat:hover img {
+  opacity: 1;
+  top: 20px;
+}
