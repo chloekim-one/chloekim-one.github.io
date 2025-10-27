@@ -23,26 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/researches/";
           },
-        },{id: "nav-activities-amp-service",
-          title: "activities &amp; service",
-          description: "extracurricular works and community service",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/extracurricular/";
-          },
         },{id: "nav-museums",
           title: "museums",
           description: "--worldwide",
           section: "Navigation",
           handler: () => {
             window.location.href = "/museums/";
-          },
-        },{id: "nav-others",
-          title: "others",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/others/";
           },
         },{id: "nav-travels",
           title: "travels",
@@ -51,12 +37,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/travel/";
           },
+        },{id: "nav-activities-amp-service",
+          title: "activities &amp; service",
+          description: "extracurricular works and community service",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/extracurricular/";
+          },
         },{id: "nav-academics",
           title: "academics",
           description: "academic excellence",
           section: "Navigation",
           handler: () => {
             window.location.href = "/academics/";
+          },
+        },{id: "nav-others",
+          title: "others",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/others/";
           },
         },{id: "post-a-post-with-plotly-js",
         
