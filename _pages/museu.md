@@ -24,7 +24,7 @@ profiles:
 ---
 
 
-TBU (as of May 2025)
+As of September 2025
 
 ㅇ England: London	
   - British Museum
