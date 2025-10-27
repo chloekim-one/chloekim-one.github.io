@@ -4,7 +4,7 @@ permalink: /extracurricular/
 title: activities & service
 description: extracurricular works and community service
 nav: true
-nav_order: 7
+nav_order: 30
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
