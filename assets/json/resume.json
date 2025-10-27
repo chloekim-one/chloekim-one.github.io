@@ -126,6 +126,30 @@
       "endDate": "2025"
     }    
   ],  
+  "volunteer": [
+    {
+      "organization": "Volunteer Work",
+      "location": "Seoul, Korea",
+      "position": "Human Rights for North Korea",
+      "startDate": "2014-04-01",
+      "endDate": "2015-07-01",
+      "summary": "TBA",
+      "highlights": ["TBA"]
+    },
+    {
+      "organization": "Please refer to activites section."
+    }    
+  ],
+  "awards": [
+    {
+      "title": "Dean's List",
+      "date": "2023",
+      "awarder": "Cranbrook Kingswood Schools"
+    },
+    {
+      "title": "Please refer to activites section."    
+    }
+  ],
   "skills": [
     {
       "name": "AI",
