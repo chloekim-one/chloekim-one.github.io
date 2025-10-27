@@ -4,7 +4,7 @@
     "image": "",
     "email": "ckim26[at]cranbrook[dot]edu",
     "url": "chloekim.one",
-    "summary": "Focus: AI X Human Decision-making under Uncertainty & Fairness"
+    "summary": "TBA",
     "location": {
       "address": "39221 Woodward Avenue",
       "postalCode": "MI 48304",
@@ -15,26 +15,22 @@
   },
   "interests": [
     {
-      "name": "Cognitivie Science and Psychology",
+      "name": "Linguistics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Cognition",
-        "Intelligence", 
-        "Resoning",
-        "Mind"
+        "Latin",
+        "Language Evolution"
       ]
     },
     {
-      "name": "Biology and Linguistics",
+      "name": "Biology",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Language Evolution",
-        "Social applications of AI"
         "Medical and public health",
         "Ecology"
       ]
     }
-  ],
+  ],  
   "education": [
     {
       "institution": "Higschooler",
