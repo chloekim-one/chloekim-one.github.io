@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/researches/";
           },
+        },{id: "nav-activities-amp-service",
+          title: "activities &amp; service",
+          description: "extracurricular works and community service",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/extracurricular/";
+          },
         },{id: "nav-museums",
           title: "museums",
           description: "--worldwide",
@@ -43,13 +50,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/travel/";
-          },
-        },{id: "nav-activities-amp-service",
-          title: "activities &amp; service",
-          description: "extracurricular works and community service",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/extracurricular/";
           },
         },{id: "nav-academics",
           title: "academics",
