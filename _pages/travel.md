@@ -4,7 +4,7 @@ permalink: /travel/
 title: travels
 description: --worldwide
 nav: true
-nav_order: 9
+nav_order: 20
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
