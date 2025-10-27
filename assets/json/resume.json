@@ -162,33 +162,47 @@
       "language": "Chinese",
       "fluency": "Fluent",
       "icon": ""
-    }
+    },
+    {
+      "language": "Latin",
+      "fluency": "NLE Latin IV",
+      "icon": ""
+    }        
+    {
+      "language": "French",
+      "fluency": "Intermediate",
+      "icon": ""
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Intermediate",
+      "icon": ""
+    }    
   ],
   "references": [
     {
-      "name": "Ms. H",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "CC"
+      "name": "Ms. Hallday",
+      "icon": "fa-solid fa-thumbtack"
     },
     {
-      "name": "T. Bo",
+      "name": "Mr. S. Baek",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Bo"
+      "reference": "Science"
     },
     {
-      "name": "T. Hst",
+      "name": "Ms. D. Viles",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Ht"
+      "reference": "Social Studies and Humanities"
     },
     {
-      "name": "Mr. Mk",
+      "name": "Mr. M. Amoako",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Qa"
+      "reference": "AI Strategist"
     },
     {
       "name": "Mr. S. Kim",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "La"
+      "reference": "Attorney Law, Partner"
     }    
   ]
 }
