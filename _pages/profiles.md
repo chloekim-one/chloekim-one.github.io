@@ -4,7 +4,7 @@ permalink: /others/
 title: others
 description: #funny things
 nav: true
-nav_order: 15
+nav_order: 60
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
