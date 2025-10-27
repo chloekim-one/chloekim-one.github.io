@@ -4,7 +4,7 @@
     "image": "",
     "email": "ckim26[at]cranbrook[dot]edu",
     "url": "chloekim.one",
-    "summary": "Focus: AI X Human Decision-making under Uncertainty & Fairness"
+    "summary": "TBA",
     "location": {
       "address": "39221 Woodward Avenue",
       "postalCode": "MI 48304",
@@ -15,21 +15,17 @@
   },
   "interests": [
     {
-      "name": "Cognitivie Science and Psychology",
+      "name": "Linguistics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Cognition",
-        "Intelligence", 
-        "Resoning",
-        "Mind"
+        "Latin",
+        "Language Evolution"
       ]
     },
     {
-      "name": "Biology and Linguistics",
+      "name": "Biology",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Language Evolution",
-        "Social applications of AI"
         "Medical and public health",
         "Ecology"
       ]
@@ -103,29 +99,6 @@
       "highlights": ["Culture", "Non-profit", "Aid"]
     }    
   ],
-  "projects": [
-    {
-      "name": "AI and Human Intuition",
-      "summary": "TBA",
-      "highlights": ["Presented at Helmholtz AI (2025)"],
-      "startDate": "2024",
-      "endDate": "2025"
-    },
-    {
-      "name": "Mallapati Score and Medical Endoscopes",
-      "summary": "TBA",
-      "highlights": ["Presented at Helmholtz AI (2025)", "Spotlight Presetation List"],
-      "startDate": "2024",
-      "endDate": "2025"
-    },
-    {
-      "name": "Lawsuit cases analyses",
-      "summary": "TBA",
-      "highlights": ["Presented at EURO-2025 (50th European Union Optimization Conference)"],
-      "startDate": "2024",
-      "endDate": "2025"
-    }    
-  ],  
   "volunteer": [
     {
       "organization": "Volunteer Work",
@@ -137,7 +110,7 @@
       "highlights": ["TBA"]
     },
     {
-      "organization": "Refer to a section",
+      "organization": "Volunteer Work",
       "location": "Seoul, Korea",
       "position": "Human Rights for North Korea",
       "startDate": "2014-04-01",
@@ -171,12 +144,35 @@
       "summary": "TBA'"
     },
     {
-      "title": "Refer to a section",
+      "title": "Latin National Bronze Medal",
       "date": "2024",
       "awarder": "National Latin (Language)",
       "summary": "TBA'"
     }        
   ],
+  "projects": [
+    {
+      "name": "AI and Human Intuition",
+      "summary": "TBA",
+      "highlights": ["Presented at Helmholtz AI (2025)"],
+      "startDate": "2024",
+      "endDate": "2025"
+    },
+    {
+      "name": "Mallapati Score and Medical Endoscopes",
+      "summary": "TBA",
+      "highlights": ["Presented at Helmholtz AI (2025)", "Spotlight Presetation List"],
+      "startDate": "2024",
+      "endDate": "2025"
+    },
+    {
+      "name": "Lawsuit cases analyses",
+      "summary": "TBA",
+      "highlights": ["Presented at EURO-2025 (50th European Union Optimization Conference)"],
+      "startDate": "2024",
+      "endDate": "2025"
+    }    
+  ],  
   "skills": [
     {
       "name": "AI",
