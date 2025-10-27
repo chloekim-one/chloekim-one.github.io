@@ -23,7 +23,7 @@ profiles:
     #  <p>Your City, State 12345</p>
 ---
 
-TBU (as of May 2025)
+As of July 2025
 
 ㅇ 2016 July-August:
    - Paris, Dijon (France),
