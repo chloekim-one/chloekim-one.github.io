@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/researches/";
           },
-        },{id: "nav-academics",
-          title: "academics",
-          description: "academic excellence",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/academics/";
-          },
         },{id: "nav-activities-amp-service",
           title: "activities &amp; service",
           description: "extracurricular works and community service",
@@ -57,6 +50,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/others/";
+          },
+        },{id: "nav-academics",
+          title: "academics",
+          description: "academic excellence",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/academics/";
           },
         },{id: "post-a-post-with-plotly-js",
         
