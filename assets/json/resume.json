@@ -137,7 +137,13 @@
       "highlights": ["TBA"]
     },
     {
-      "organization": "Please refer to activites section."
+      "organization": "Refer to a section",
+      "location": "Seoul, Korea",
+      "position": "Human Rights for North Korea",
+      "startDate": "2014-04-01",
+      "endDate": "2015-07-01",
+      "summary": "TBA",
+      "highlights": ["TBA"]
     }    
   ],
   "awards": [
@@ -147,8 +153,29 @@
       "awarder": "Cranbrook Kingswood Schools"
     },
     {
-      "title": "Please refer to activites section."    
-    }
+      "title": "Dean's List",
+      "date": "2024",
+      "awarder": "Cranbrook Kingswood Schools",
+      "summary": "TBA'"
+    },
+    {
+      "title": "Dean's List",
+      "date": "2025",
+      "awarder": "Cranbrook Kingswood Schools",
+      "summary": "TBA'"
+    },
+    {
+      "title": "Latin National Silver Medal",
+      "date": "2025",
+      "awarder": "National Latin (Language)",
+      "summary": "TBA'"
+    },
+    {
+      "title": "Refer to a section",
+      "date": "2024",
+      "awarder": "National Latin (Language)",
+      "summary": "TBA'"
+    }        
   ],
   "skills": [
     {
@@ -176,47 +203,33 @@
       "language": "Chinese",
       "fluency": "Fluent",
       "icon": ""
-    },
-    {
-      "language": "Latin",
-      "fluency": "NLE Latin IV",
-      "icon": ""
-    }        
-    {
-      "language": "French",
-      "fluency": "Intermediate",
-      "icon": ""
-    },
-    {
-      "language": "Japanese",
-      "fluency": "Intermediate",
-      "icon": ""
-    }    
+    }
   ],
   "references": [
     {
-      "name": "Ms. Hallday",
-      "icon": "fa-solid fa-thumbtack"
+      "name": "Ms. H",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "CC"
     },
     {
-      "name": "Mr. S. Baek",
+      "name": "T. Bo",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Science"
+      "reference": "Bo"
     },
     {
-      "name": "Ms. D. Viles",
+      "name": "T. Hst",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Social Studies and Humanities"
+      "reference": "Ht"
     },
     {
-      "name": "Mr. M. Amoako",
+      "name": "Mr. Mk",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "AI Strategist"
+      "reference": "Qa"
     },
     {
       "name": "Mr. S. Kim",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Attorney Law, Partner"
+      "reference": "La"
     }    
   ]
 }
