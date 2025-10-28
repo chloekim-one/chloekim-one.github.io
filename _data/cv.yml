@@ -119,14 +119,14 @@
       institution: "Presented at Helmholtz AI 2025"
       year: 2024 - 2025
       description:
-        - "Presented: An Experimental Analysis of Intuition and Semantic Reasoning in Linguistic Visualizations by Humans and AI"
+        - "Title: "An Experimental Analysis of Intuition and Semantic Reasoning in Linguistic Visualizations by Humans and AI""
         - "Compared 40+ multilingual participants with GPT-4 on sound-to-shape tasks, revealinghumans’ intuitive mappings vs. AI’s semantic reasoning."
         - "Findings support dual-mode cognition, highlighting differences in human and machine decision-making."
     - title: Mallapati Score and Medical Endoscopes
       institution: "Presented at Helmholtz AI 2025, Spotlight Presentation"
       year: 2024 - 2025
       description:
-        - "Presented: “Multimodal Deep Learnings and Interpretability for Automated Mallampati Scoring and Endoscopy Prediction (Spotlight)"
+        - "Title: "Multimodal Deep Learnings and Interpretability for Automated Mallampati Scoring and Endoscopy Prediction""
         - "Results demonstrate scalable, interpretable AI for airway management, highlighting con- trasts between human judgment and standardized decision-making."
 
 - title: Volunteer
