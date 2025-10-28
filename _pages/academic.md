@@ -32,7 +32,7 @@ profiles:
 ---
 
     ① Rigorous Course Selection --
- 	  Personal researchers and Classes
+    Personal researchers and Classes
 
     ② {Academic Perseverance} Growing GPAs
 
@@ -41,13 +41,11 @@ profiles:
 
 ---
         
--	Rigorous Courses and Higher GPA
-
 -	AP: Biology, Chemistry, Statistics, US History, Latin, Language, Computer Science, Calculus BC, and etc.
 
 -	SAT: 1560
 
-<br><br>
+<br><br><br>
 
 -	Awards
     - National Latin Exam Cum Laude and 2x Magna Cum Laude – G9, 10, 11
