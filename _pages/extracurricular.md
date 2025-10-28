@@ -46,65 +46,65 @@ profiles:
 ---
 
         
-- Varsity Rowing Team, <span class="font-weight-bold fw-bold fst-italic" style="color: rebeccapurple;"><i>Coxswain</i></span>
+- Varsity Rowing Team, <span class="fst-italic" style="color: rebeccapurple;"><i>Coxswain</i></span>
   - Coach/manage boats (steering/making calls & corrections), mentor novice rowers, delegate roles, manage race day logistics & encourage team support
 
 
 <br>
 
-- Linguistics Club, <span class="font-weight-bold fw-bold fst-italic align-middle" style="color: rebeccapurple;"><i>Founder, Co-President</i></span>
+- Linguistics Club, <span class="fst-italic" style="color: rebeccapurple;"><i>Founder, Co-President</i></span>
   - Founded Linguistics Club to promote different branches of linguistics; raise awareness of diverse languages; NACLO prep; AI+ Linguistics research
 
 
 <br>
 
-- Ethics Bowl Club, <span class="font-weight-bold fw-bold fst-italic align-middle" style="color: rebeccapurple;"><i>President/Founder</i></span>
+- Ethics Bowl Club, <span class="fst-italic" style="color: rebeccapurple;"><i>President/Founder</i></span>
   - Founded club; recruited, hosted state-wide practice events, organized spaces for ethical thinking & dialogue in & out of school & community
 
 
 <br>
 
-- Crane Clarion (School newspaper), <span class="font-weight-bold fw-bold fst-italic align-middle" style="color: rebeccapurple;"><i>Assoc. Arts Editor, Graphic Designer, Staff Writer</i></span>
+- Crane Clarion (School newspaper), <span class="fst-italic" style="color: rebeccapurple;"><i>Assoc. Arts Editor, Graphic Designer, Staff Writer</i></span>
   - Led artists & writers; mentored junior writers; established journalistic protocols; publicized arts & school spirit; wrote cultural sens. guidelines
 
 
 <br>
 
-- LITE (Leaders in the Environment), <span class="font-weight-bold fw-bold fst-italic align-middle" style="color: rebeccapurple;"><i>Food Board Captain</i></span>
+- LITE (Leaders in the Environment), <span class="fst-italic" style="color: rebeccapurple;"><i>Food Board Captain</i></span>
   - Liaison to school meal providers; promoted inclusive meals; systemized negotiation process btw. student body, faculty, and providers; org 10+ events
 
 
 <br>
 
-- Cranbrook Kingswood Chamber Orchestra, Thornlea Quartet, <span class="font-weight-bold fw-bold fst-italic align-middle" style="color: rebeccapurple;"><i>Violinist; Organizer</i></span>
+- Cranbrook Kingswood Chamber Orchestra, Thornlea Quartet, <span class="fst-italic" style="color: rebeccapurple;"><i>Violinist; Organizer</i></span>
   - Violinist in school orchestra; performed at school/community; organized fundraising concerts for Brilliant Detroit; mentored peers
 
 
 <br>
 
-- Tutoring, <span class="font-weight-bold fw-bold fst-italic align-middle" style="color: rebeccapurple;"><i> Comm. Service – Volunteer tutor</i></span>
+- Tutoring, <span class="fst-italic" style="color: rebeccapurple;"><i> Comm. Service – Volunteer tutor</i></span>
   - Independent & Volunteer – Local & Overseas; hybrid—in-person/online via Zoom/Teams)
   - Tutored 5 7 under-resourced students: English (Chinese & Korean) + SAT Math (US); ran Zoom lessons; built practice sets; measurable score gains
 
 
 <br>
 
-- Gold Key, <span class="font-weight-bold fw-bold fst-italic align-middle" style="color: rebeccapurple;"><i>Sophomore Lead</i></span>
+- Gold Key, <span class="fst-italic" style="color: rebeccapurple;"><i>Sophomore Lead</i></span>
 
 
 <br>
 
-- “Ergasterion” – Theater & Drama Club, <span class="font-weight-bold fw-bold fst-italic align-middle" style="color: rebeccapurple;"><i>Stage Crew & Member</i></span>
+- “Ergasterion” – Theater & Drama Club, <span class="fst-italic" style="color: rebeccapurple;"><i>Stage Crew & Member</i></span>
 
 
 <br>
 
-- Student Council, <span class="font-weight-bold fw-bold fst-italic align-middle" style="color: rebeccapurple;"><i>Member</i></span>
+- Student Council, <span class="fst-italic" style="color: rebeccapurple;"><i>Member</i></span>
 
 
 <br>
 
-- World Scholars Cup, <span class="font-weight-bold fw-bold fst-italic align-middle" style="color: rebeccapurple;"><i>Team leader</i></span>
+- World Scholars Cup, <span class="fst-italic" style="color: rebeccapurple;"><i>Team leader</i></span>
   - Led the debate team; won in conferences
 
 
