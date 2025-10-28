@@ -111,20 +111,20 @@
   contents:
     - title: "Dynamic Network and AI Analysis of Legal Citation Networks (especially medical)"
       institution: Presented at EURO-2025 (34th European Conference on Operational Research)
-      year: 2025
+      year: 2024 - 2025
       description:
         - "Analyzed 86,000+ Supreme Court cases using network and power-law analysis, showing concentrated reliance on landmark precedents."
         - "Illustrate how structural citation patterns shape legal & medical decision-making."
     - title: AI and Human Intuition
-      institution: Presented at Helmholtz AI (2025)
-      year: 2025
+      institution: "Presented at Helmholtz AI 2025"
+      year: 2024 - 2025
       description:
         - "Presented: An Experimental Analysis of Intuition and Semantic Reasoning in Linguistic Visualizations by Humans and AI"
         - "Compared 40+ multilingual participants with GPT-4 on sound-to-shape tasks, revealinghumans’ intuitive mappings vs. AI’s semantic reasoning."
         - "Findings support dual-mode cognition, highlighting differences in human and machine decision-making."
     - title: Mallapati Score and Medical Endoscopes
-      institution: Presented at Helmholtz AI (2025), Spotlight Presentation List
-      year: 2025
+      institution: "Presented at Helmholtz AI 2025, Spotlight Presentation"
+      year: 2024 - 2025
       description:
         - "Presented: “Multimodal Deep Learnings and Interpretability for Automated Mallampati Scoring and Endoscopy Prediction (Spotlight)"
         - "Results demonstrate scalable, interpretable AI for airway management, highlighting con- trasts between human judgment and standardized decision-making."
@@ -132,12 +132,12 @@
 - title: Volunteer
   type: list
   contents:
-    - Please refer to the activites & service section.
+    - Please refer to the <a href="https://chloekim.one/extra/">activites & service section</a>.
 
 - title: Honors and Awards
   type: list
   contents:
-    - Please refer to the academics section.
+    - Please refer to the <a href="https://chloekim.one/academics/">academics section</a>.
 
 - title: Skills
   type: nested_list
