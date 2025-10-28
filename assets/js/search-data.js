@@ -42,7 +42,7 @@ ninja.data = [{
           description: "extracurricular works and community service",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/extra/";
+            window.location.href = "/ecs/";
           },
         },{id: "nav-academics",
           title: "academics",
