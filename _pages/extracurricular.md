@@ -42,7 +42,7 @@ profiles:
  	      Spotlight presentations
 
         
-- Varsity Rowing Team <i>Coxswain</i>
+- Varsity Rowing Team <div class="highlight"><pre class="highlight"><i>Coxswain</i></pre></div>
 
       Coach/manage boats (steering/making calls & corrections), mentor novice rowers, delegate roles, manage race day logistics & encourage team support
 
