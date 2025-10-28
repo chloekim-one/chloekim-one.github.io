@@ -1,7 +1,7 @@
 ---
 layout: profiles
-permalink: /extracurricular/
-title: activities & service
+permalink: /extra/
+title: activities & serv.
 description: extracurricular works and community service
 nav: true
 nav_order: 30
