@@ -435,9 +435,9 @@ ninja.data = [{
           description: "Interpretability for Automated Mallampati Scoring and Endoscopy",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-network-analysis-of-medical-legal-citation-ai-and-graphs",
-          title: 'Network Analysis of Medical Legal Citation (AI and Graphs)',
-          description: "Network Analysis of Medical Legal Citation (AI and Graphs)",
+            },},{id: "projects-complexity-and-ai-analysis-of-legal-citations",
+          title: 'Complexity and AI Analysis of Legal Citations',
+          description: "Complexity and AI Analysis of Medical Legal Citation (AI and Graphs)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{
