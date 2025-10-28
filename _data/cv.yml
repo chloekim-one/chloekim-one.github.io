@@ -157,10 +157,12 @@
     - <u>Hobbies:</u> — Rowing, Novel Writing, Drawing 
 
 - title: References
-  type: list
+  type: nested_list
   contents:
-    - Ms. M. Hallday
-    - Mr. S. Baek — Science
-    - Ms. D. Viles — Social Studies and Humanities
-    - Mr. M. Amoako — AI Strategist
-    - Mr. S. Kim — Attorney Law, Partner
+    - title: " "
+      items:
+        - "Ms. M. Hallday"
+        - "Mr. S. Baek — Science"
+        - "Ms. D. Viles — Social Studies and Humanities"
+        - "Mr. M. Amoako — AI Strategist"
+        - "Mr. S. Kim — Attorney Law, Partner"
