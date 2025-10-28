@@ -92,7 +92,7 @@
   type: time_table
   contents:
     - title: "System and method for evaluating AI output consistency and providing dynamic insurance"
-      institution: "Sole Inventor, 10-2025-0104581, patent pending (Korea)"
+      institution: "Sole Inventor, #10-2025-0104581, patent pending (Korea)"
       year: Patent
       description:
         - "Quantifies AI risks (factuality, logical/semantic consistency, bias) into actuarial metrics."
@@ -101,10 +101,10 @@
       institution: "Sole Developer, Four registrations"
       year: SW Registration
       description:
-        - "Interpreting Social Intent and Behavior: Temporal Dynamics of Network Heatmaps (035490)"
-        - "Analysis of Social Intentionality: Visualization of Case-law Networks (035307)"
-        - "Simulation of Behavioral Relationships in Power-law Dynamics using AI (035489)"
-        - "Inequalities in Human Behavior: A Graph-based and AI Interpretation (034662)"
+        - "Interpreting Social Intent and Behavior: Temporal Dynamics of Network Heatmaps (#035490)"
+        - "Analysis of Social Intentionality: Visualization of Case-law Networks (#035307)"
+        - "Simulation of Behavioral Relationships in Power-law Dynamics using AI (#035489)"
+        - "Inequalities in Human Behavior: A Graph-based and AI Interpretation (#034662)"
         
 - title: Projects and Researches Presented
   type: time_table
