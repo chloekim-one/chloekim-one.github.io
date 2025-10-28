@@ -142,20 +142,24 @@
 - title: Skills
   type: nested_list
   contents:
-    - title: AI
+    - title: AI and Data Analytics
       items:
-        - Python
-        - Java
+        - "Statistics & Data analytics"
+        - "Network and complex system analyses"
+    - title: Technical Computer Science
+      items:
+        - "Java, Python, Julia"
+        - "Applications to Semantics & philosophy"        
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> —
+    - <u>Hobbies:</u> — Rowing, Novel Writing, Drawing 
 
 - title: References
   type: list
   contents:
-    - Ms. Hallday
+    - Ms. M. Hallday
     - Mr. S. Baek — Science
     - Ms. D. Viles — Social Studies and Humanities
     - Mr. M. Amoako — AI Strategist
