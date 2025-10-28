@@ -199,6 +199,7 @@ exclude:
   - _pages/teaching.md
   - _pages/dropdown.md
   - _pages/commserv.md
+  - _pages/extracurricular.oct27.backup
   - purgecss.config.js
   - README.md
   - readme_preview/
