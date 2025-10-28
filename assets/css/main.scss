@@ -44,16 +44,10 @@ a.snapchat:hover img {
   top: 0px;
 }
 
-/*
-img.rp {
-  width: 50%; /* 부모 요소의 너비에 맞춰지게 */
-  height: auto; /* 가로세로 비율을 유지하기 위해 */
-  object-fit: cover; /* 비율 유지하며 컨테이너를 꽉 채우도록 */
-}
-*/
 
 .rp {
   max-width: 50%; /* Ensures the image scales down to fit its container */
   height: auto; /* Maintains the aspect ratio */
   display: block; 
+  object-fit: cover; /* 비율 유지하며 컨테이너를 꽉 채우도록 */
 }
