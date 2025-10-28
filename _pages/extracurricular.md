@@ -35,11 +35,10 @@ profiles:
         ① {Sustained Commitment} More than three years 
         -- Varsity, Orchestra, Research
 
-        ② {High-level Engagement} Professional Researches in Academic Circle and
- 	      their Recognition (Acedemic Conferences)
+        ② {High-level Engagement} Professional Researches in Academic 
+        Circle and their Recognition (Acedemic Conferences)
 
-        ③ {Notable Accomplishment} Regatta, Debate, Violin and Orchestra, and
- 	      Spotlight presentations
+        ③ {Notable Accomplishment} Regatta, Debate, Violin and Orchestra
 
         
 - Varsity Rowing Team <div class="highlight"><pre class="highlight"><i>Coxswain</i></pre></div>
