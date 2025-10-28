@@ -46,7 +46,7 @@ a.snapchat:hover img {
 
 
 .rp {
-  max-width: 50%; /* Ensures the image scales down to fit its container */
+  max-width: 100%; /* Ensures the image scales down to fit its container */
   height: auto; /* Maintains the aspect ratio */
   display: block; 
   object-fit: cover; /* 비율 유지하며 컨테이너를 꽉 채우도록 */
