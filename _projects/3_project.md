@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Network Analysis of Medical Legal Citation (AI and Graphs)
-description: Network Analysis of Medical Legal Citation (AI and Graphs)
+title: Complexity and AI Analysis of Legal Citations
+description: Complexity and AI Analysis of Medical Legal Citation (AI and Graphs)
 img: assets/img/rp/rpm1.jpg #assets/img/7.jpg
 importance: 1
 category: work
