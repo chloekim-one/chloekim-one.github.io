@@ -31,12 +31,12 @@ profiles:
     #  <p>Your City, State 12345</p>
 ---
 
-    ① Rigorous Course Selection --
+  ① Rigorous Course Selection --
  	  Personal researchers and Classes
 
-    ② {Academic Perseverance} Growing GPAs
+  ② {Academic Perseverance} Growing GPAs
 
-    ③ {Notable Accomplishment} Honors and Awards in
+  ③ {Notable Accomplishment} Honors and Awards in
     Various fields
         
 -	Rigorous Courses and Higher GPA
