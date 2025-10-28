@@ -46,7 +46,7 @@ profiles:
 ---
 
         
-- Varsity Rowing Team,<span class="fst-italic text-uppercase align-middle" style="color: rebeccapurple;">Coxswain</span>
+- Varsity Rowing Team, <span class="fst-italic text-uppercase align-middle" style="color: rebeccapurple;">Coxswain</span>
   - Coach/manage boats (steering/making calls & corrections), mentor novice rowers, delegate roles, manage race day logistics & encourage team support
 
 - Linguistics Club, <span class="fst-italic text-uppercase align-middle" style="color: rebeccapurple;">Founder, Co-President</span>
