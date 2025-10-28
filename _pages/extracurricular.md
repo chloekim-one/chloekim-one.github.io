@@ -68,34 +68,41 @@ profiles:
 
 
 <br>
+
 - LITE (Leaders in the Environment), <span class="fst-italic text-uppercase align-middle" style="color: rebeccapurple;">Food Board Captain</span>
   - Liaison to school meal providers; promoted inclusive meals; systemized negotiation process btw. student body, faculty, and providers; org 10+ events
 
 
 <br>
+
 - Cranbrook Kingswood Chamber Orchestra, Thornlea Quartet, <span class="fst-italic text-uppercase align-middle" style="color: rebeccapurple;">Violinist; Organizer</span>
   - Violinist in school orchestra; performed at school/community; organized fundraising concerts for Brilliant Detroit; mentored peers
 
 
 <br>
+
 - Tutoring, <span class="fst-italic text-uppercase align-middle" style="color: rebeccapurple;"> Comm. Service – Volunteer tutor</span>
   - Independent & Volunteer – Local & Overseas; hybrid—in-person/online via Zoom/Teams)
   - Tutored 5 7 under-resourced students: English (Chinese & Korean) + SAT Math (US); ran Zoom lessons; built practice sets; measurable score gains
 
 
 <br>
+
 - Gold Key, <span class="fst-italic text-uppercase align-middle" style="color: rebeccapurple;">Sophomore Lead</span>
 
 
 <br>
+
 - “Ergasterion” – Theater & Drama Club, <span class="fst-italic text-uppercase align-middle" style="color: rebeccapurple;">Stage Crew & Member</span>
 
 
 <br>
+
 - Student Council, <span class="fst-italic text-uppercase align-middle" style="color: rebeccapurple;">Member</span>
 
 
 <br>
+
 - World Scholars Cup, <span class="fst-italic text-uppercase align-middle" style="color: rebeccapurple;">Team leader</span>
   - Led the debate team; won in conferences
 
