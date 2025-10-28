@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 
-"An Experimental Analysis of Intuition and Semantic Reasoning in Linguistic Visualizations by Humans and AI (LLMs)"
+<i>"An Experimental Analysis of Intuition and Semantic Reasoning in Linguistic Visualizations by Humans and AI (LLMs)"</i>
 
 <img src='/assets/img/rp/rpm2.jpg'>
 
