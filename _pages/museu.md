@@ -35,8 +35,7 @@ As of September 2025
   - Museum of London
   - Leeds City Museum
   - Royal Observatory (Greenwich)
-  - <a class="snapchat" style="margin: 5px 5px 0 -2px;" target="_blank" href="#">Hover for effect  <img src="https://www.bmimages.com/images/home/carousel/victoria_carousel.jpg" /></a>
-			
+  			
 ㅇ France: Paris 
   - Musee du Louvre
   - Musee d'Orsay
@@ -95,7 +94,8 @@ As of September 2025
 ㅇ Japan: Tokyo
   - 東京国立博物館	Tokyo National Museum
   - 国立科学博物館 National Museum of Nature and Science
-  - 江戸東京博物館 Edo Tokyo History Museum
+  - <a class="snapchat" style="margin: 5px 5px 0 -2px;" target="_blank" href="#">江戸東京博物館 Edo Tokyo History Museum<img src="/assets/img/ms/m001.jpg" />
+
 
  ㅇ Japan: Osaka and Kyoto
   - 大阪歴史博物館 Osaka Museum of History
