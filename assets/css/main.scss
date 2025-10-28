@@ -55,7 +55,5 @@ img.rp {
 .rp {
   max-width: 50%; /* Ensures the image scales down to fit its container */
   height: auto; /* Maintains the aspect ratio */
-  display: block; /* Helps with layout and centering */
-  /* border-radius: 50%; */ /* Creates a circular shape */
-  /* border: 2px solid #ccc; */ /* Optional: Adds a subtle border */
+  display: block; 
 }
