@@ -44,7 +44,7 @@ profiles:
         
 - Varsity Rowing Team <i>Coxswain</i>
 
-            Coach/manage boats (steering/making calls & corrections), mentor novice rowers, delegate roles, manage race day logistics & encourage team support
+    Coach/manage boats (steering/making calls & corrections), mentor novice rowers, delegate roles, manage race day logistics & encourage team support
 
 - Linguistics Club <i>Founder, Co-President</i>
         -- Founded Linguistics Club to promote different branches of linguistics; raise awareness of diverse languages; NACLO prep; AI+ Linguistics research
