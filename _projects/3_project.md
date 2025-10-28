@@ -2,7 +2,7 @@
 layout: page
 title: Network Analysis of Medical Legal Citation (AI and Graphs)
 description: Network Analysis of Medical Legal Citation (AI and Graphs)
-img: assets/img/rp/rpc1.jpg #assets/img/7.jpg
+img: assets/img/rp/rpm1.jpg #assets/img/7.jpg
 importance: 1
 category: work
 related_publications: false
@@ -10,7 +10,7 @@ related_publications: false
 
 <i>"Complex Network and AI Analysis of Legal Citation Networks (esp. medical) in South Korea (1951–2023)"</i>
 
-<img src='/assets/img/rp/rpm1.jpg'>
+<img src='/assets/img/rp/rpc1.jpg'>
 
 We analyze approximately 86,000+ legal cases from South Korea (1951–2023) by constructing (complex) citation networks, modeling each case as a node and citation relationships as edges. Through centrality/hub analysis, we identify key hub cases. We extract and analyze a focused subnetwork comprising medical-related cases.
 
