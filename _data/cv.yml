@@ -36,17 +36,17 @@
     - title: High School (Cranbrook Kingswood Upper School)
       institution: Cranbrook Schools, Bloomfield Hills, MI, US
       year: 2023-08 – 2026-07
-      items:
-        - Courses: Humanities, AI, Biology, Linguistics
+      description:
+        - Courses - Humanities, AI, Biology, Linguistics
     - title: Middle School
       institution: 南京时代双语学校 (Nanjing Times School), Nanjing, China
       year: 2021-08 – 2023-06
-      items:
+      description:
         - Courses: English, Chinese, Design, Humanities
     - title: Elementary School
       institution: Kyunghee School, Seoul, Korea
       year: 2015-03 – 2021-02
-      items:
+      description:
         - Courses: English, Violin, Volunteers
 
 - title: Experience
@@ -55,25 +55,25 @@
     - title: Intern Researcher
       institution: Lawfirm HoAm (Seoul, Korea)
       year: 2024-03 – present
-      items:
+      description:
         - Network analyses on medical lawsuit cases in Korea (1960–2023): Hub cases
         - Highlights: Network, Complexity, Medical Law
     - title: Intern Researcher
       institution: Quilt.ai (Boston, MA & NYC, NY, US)
       year: 2024-06 – 2025-10
-      items:
+      description:
         - AI applications on Fashion: Narrative making
         - Highlights: AI, Fashion, Narratives
     - title: Intern Researcher
       institution: Elroi.ai (Ann Arbor, MI, US)
       year: 2025-05 – 2025-12
-      items:
+      description:
         - AI coding for data deidentification and related laws
         - Highlights: AI, Data privacy
     - title: Intern Researcher
       institution: Herring Insights, Inc. (Newton, MA, US)
       year: 2024-06 – 2024-09
-      items:
+      description:
         - Cultural difference and analyses: how we can help people
         - Highlights: Culture, Non-profit, Aid
 
@@ -83,18 +83,18 @@
     - title: AI and Human Intuition
       institution: Presented at Helmholtz AI (2025)
       year: 2024 – 2025
-      items:
+      description:
         - Highlights: 
     - title: Mallapati Score and Medical Endoscopes
       institution: Presented at Helmholtz AI (2025), Spotlight Presentation List
       year: 2024 – 2025
       description:
-        - Highlights: 
+        - Highlights - 
     - title: Lawsuit cases analyses
       institution: Presented at EURO-2025 (50th European Union Optimization Conference)
       year: 2024 – 2025
       description:
-        - Highlights: 
+        - Highlights -
 
 - title: Volunteer
   type: list
