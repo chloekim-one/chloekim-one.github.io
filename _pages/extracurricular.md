@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /extra/
-title: activities & serv.
+title: activities & service
 description: extracurricular works and community service
 nav: true
 nav_order: 30
