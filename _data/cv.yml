@@ -1,7 +1,7 @@
 - title: General Information
   type: map
   contents:
-    - name: <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">Name</span>
+    - name: Name
       value: Chloe Kim
     - name: Email
       value: "ckim26[at]cranbrook[dot]edu"
