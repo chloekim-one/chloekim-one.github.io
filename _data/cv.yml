@@ -34,17 +34,17 @@
   type: time_table
   contents:
     - title: Cranbrook Kingswood Upper School
-      institution: Cranbrook Schools, Bloomfield Hills, MI, US
+      institution: High School (Bloomfield Hills, MI, US)
       year: 2023-08 – 2026-07
       description:
         - Humanities, AI, Biology, Linguistics
-    - title: Middle School
-      institution: 南京时代双语学校 (Nanjing Times School), Nanjing, China
+    - title: 南京时代双语学校 (Nanjing Times School)
+      institution: Middle school (Nanjing, China)
       year: 2021-08 – 2023-06
       description:
         - English, Chinese, Design, Humanities
-    - title: Elementary School
-      institution: Kyunghee School, Seoul, Korea
+    - title: Kyunghee School
+      institution: Elementary School (Seoul, Korea)
       year: 2015-03 – 2021-02
       description:
         - English, Violin, Volunteers
