@@ -10,7 +10,7 @@ related_publications: false
 
 <i>"An Experimental Analysis of Intuition and Semantic Reasoning in Linguistic Visualizations by Humans and AI (LLMs)"</i>
 
-<img src='/assets/img/rp/rpc3.jpg'>
+<img class="rp" src='/assets/img/rp/rpc3.jpg'>
 
 We experimentally analyze how association stimuli are processed through distinct cognitive mechanisms by humans and AI (large language models, LLMs) in visual generation tasks based on linguistic association. As stimuli, we employ nonsymbolic sound words (non-symbolic sounds), which represent meaningless but structured sound sequences. This study focuses on the contrast between human intuition and LLMs' learned semantic reasoning. Humans tend to visualize ‘sound-associated words’ without prior learning, relying on immediate sensory and affective cues to produce intuitive forms—curves or pointed shapes. In contrast, LLMs such as GPT map these words onto shapes based on large-scale text-driven knowledge, using semantic structures and statistical patterns. 
 
