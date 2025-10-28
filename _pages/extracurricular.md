@@ -63,6 +63,7 @@ profiles:
 
 
 <br>
+
 - Crane Clarion (School newspaper), <span class="fst-italic text-uppercase align-middle" style="color: rebeccapurple;">Assoc. Arts Editor, Graphic Designer, Staff Writer</span>
   - Led artists & writers; mentored junior writers; established journalistic protocols; publicized arts & school spirit; wrote cultural sens. guidelines
 
