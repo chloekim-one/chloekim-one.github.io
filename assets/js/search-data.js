@@ -430,9 +430,9 @@ ninja.data = [{
           description: "Intuition and Semantic Reasoning in AI",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-ai-on-mallampati-scoring-and-endoscopy",
+          title: 'AI on Mallampati Scoring and Endoscopy',
+          description: "Interpretability for Automated Mallampati Scoring and Endoscopy",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-network-analysis-of-medical-legal-citation-ai-and-graphs",
