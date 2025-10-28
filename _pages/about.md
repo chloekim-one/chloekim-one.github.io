@@ -30,8 +30,8 @@ latest_posts:
 ## Hello 👋
 
 Welcome to my website.  
-I'm a Kingwood student passionate about **Mind**, **Behaviors**, and **Brain**(Intelligence). 
-They are inter-linked and deeply related to **biology**, and **linguistics**.
+I'm a Kingwood student passionate about **Mind**(Intelligence), **Behaviors**, and **Brain**. 
+They are interlinked and closely connected to **cognitive science**, especially across **psychology**, **biology**, and **linguistics**.
 
   
     - Intended Major: Cognition, Intelligence, Biology, Liguistics
