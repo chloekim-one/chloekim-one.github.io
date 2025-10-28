@@ -46,7 +46,7 @@ profiles:
 ---
 
         
-- Varsity Rowing Team, <span class="font-weight-bold fw-bold fst-italic align-middle" style="color: rebeccapurple;"><i>Coxswain</i></span>
+- Varsity Rowing Team, <span class="font-weight-bold fw-bold fst-italic" style="color: rebeccapurple;"><i>Coxswain</i></span>
   - Coach/manage boats (steering/making calls & corrections), mentor novice rowers, delegate roles, manage race day logistics & encourage team support
 
 
