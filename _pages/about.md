@@ -29,6 +29,7 @@ latest_posts:
 
 ## Hello 👋
 
+
 Welcome to my website.  
 I'm a Kingwood student passionate about **Mind**(Intelligence), **Behaviors**, and **Brain**. 
 
