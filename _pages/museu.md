@@ -89,12 +89,13 @@ As of September 2025
   - 국립경주박물관	Gyeongju National Museum
 	
 ㅇ Korea: Gunsan	
-  - 군산근대역사박물관 Gunsan Modern History Museum
+  - <a class="snapchat" style="margin: 5px 5px 0 -2px;" target="_blank" href="#">
+군산근대역사박물관 Gunsan Modern History Museum<img src="/assets/img/ms/m002.jpg" /></a>
 			
 ㅇ Japan: Tokyo
   - 東京国立博物館	Tokyo National Museum
   - 国立科学博物館 National Museum of Nature and Science
-  - <a class="snapchat" style="margin: 5px 5px 0 -2px;" target="_blank" href="#">江戸東京博物館 Edo Tokyo History Museum<img src="/assets/img/ms/m001.jpg" />
+  - <a class="snapchat" style="margin: 5px 5px 0 -2px;" target="_blank" href="#">江戸東京博物館 Edo Tokyo History Museum<img src="/assets/img/ms/m001.jpg" /></a>
 
 
  ㅇ Japan: Osaka and Kyoto
