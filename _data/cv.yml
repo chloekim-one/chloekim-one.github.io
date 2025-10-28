@@ -1,7 +1,7 @@
 - title: General Information
   type: map
   contents:
-    - name: Name
+    - name: "<span class="fw-bold fst-italic text-uppercase align-middle" style="color: rebeccapurple;">Coxswain</span>"
       value: Chloe Kim
     - name: Email
       value: "ckim26[at]cranbrook[dot]edu"
