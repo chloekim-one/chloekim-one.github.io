@@ -154,7 +154,8 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> — Rowing, Novel Writing, Drawing 
+    - <u>Hobbies:</u> Novel Writing, Drawing
+    - <u>Outdoor Activites:</u> Rowing, Trekking
 
 - title: References
   type: nested_list
