@@ -29,7 +29,7 @@ As of September 2025
 
 ㅇ England: London	
   - <a class="snapchat" style="margin: 5px 5px 0 -2px;" target="_blank" href="#">British Museum<img src="/assets/img/ms/m010.jpg" /></a>
-  - <a class="snapchat" style="margin: 5px 5px 0 -2px;" target="_blank" href="#">National Gallery<img src="/assets/img/ms/m001.jpg" /></a>
+  - National Gallery
   - <a class="snapchat" style="margin: 5px 5px 0 -2px;" target="_blank" href="#">Tate Modern<img src="/assets/img/ms/m009.jpg" /></a>
   - <a class="snapchat" style="margin: 5px 5px 0 -2px;" target="_blank" href="#">National Portrait Gallery<img src="/assets/img/ms/m012.jpg" /></a>
   - <a class="snapchat" style="margin: 5px 5px 0 -2px;" target="_blank" href="#">Victoria and Albert Museum<img src="/assets/img/ms/m061.jpg" /></a>
