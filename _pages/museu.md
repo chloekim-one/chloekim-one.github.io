@@ -25,7 +25,7 @@ profiles:
 
 
 As of September 2025
-(Hover to see images!)
+<span class="fst-italic" style="color: rebeccapurple;"><i>(Hover to see images!)</i></span>
 
 ㅇ England: London	
   - <a class="snapchat" style="margin: 5px 5px 0 -2px;" target="_blank" href="#">British Museum<img src="/assets/img/ms/m010.jpg" /></a>
