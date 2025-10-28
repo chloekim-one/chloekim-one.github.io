@@ -49,42 +49,41 @@ profiles:
 - Varsity Rowing Team,<span class="fst-italic text-uppercase align-middle" style="color: rebeccapurple;">Coxswain</span>
   - Coach/manage boats (steering/making calls & corrections), mentor novice rowers, delegate roles, manage race day logistics & encourage team support
 
-- Linguistics Club, <i>Founder, Co-President</i>
-<span class="fst-italic text-uppercase align-middle" style="color: rebeccapurple;">Coxswain</span>
+- Linguistics Club, <span class="fst-italic text-uppercase align-middle" style="color: rebeccapurple;">Founder, Co-President</span>
   - Founded Linguistics Club to promote different branches of linguistics; raise awareness of diverse languages; NACLO prep; AI+ Linguistics research
 
 
-- Ethics Bowl Club, <i>President/Founder</i>
+- Ethics Bowl Club, <span class="fst-italic text-uppercase align-middle" style="color: rebeccapurple;">President/Founder</span>
   - Founded club; recruited, hosted state-wide practice events, organized spaces for ethical thinking & dialogue in & out of school & community
 
 
-- Crane Clarion (School newspaper), <i>Assoc. Arts Editor, Graphic Designer, Staff Writer</i>
+- Crane Clarion (School newspaper), <span class="fst-italic text-uppercase align-middle" style="color: rebeccapurple;">Assoc. Arts Editor, Graphic Designer, Staff Writer</span>
   - Led artists & writers; mentored junior writers; established journalistic protocols; publicized arts & school spirit; wrote cultural sens. guidelines
 
 
-- LITE (Leaders in the Environment), <i>Food Board Captain</i>
+- LITE (Leaders in the Environment), <span class="fst-italic text-uppercase align-middle" style="color: rebeccapurple;">Food Board Captain</span>
   - Liaison to school meal providers; promoted inclusive meals; systemized negotiation process btw. student body, faculty, and providers; org 10+ events
 
 
-- Cranbrook Kingswood Chamber Orchestra, Thornlea Quartet, <i>Violinist; Organizer</i>
+- Cranbrook Kingswood Chamber Orchestra, Thornlea Quartet, <span class="fst-italic text-uppercase align-middle" style="color: rebeccapurple;">Violinist; Organizer</span>
   - Violinist in school orchestra; performed at school/community; organized fundraising concerts for Brilliant Detroit; mentored peers
 
 
-- Tutoring, <i> Comm. Service – Volunteer tutor</i>
+- Tutoring, <span class="fst-italic text-uppercase align-middle" style="color: rebeccapurple;"> Comm. Service – Volunteer tutor</span>
   - Independent & Volunteer – Local & Overseas; hybrid—in-person/online via Zoom/Teams)
   - Tutored 5 7 under-resourced students: English (Chinese & Korean) + SAT Math (US); ran Zoom lessons; built practice sets; measurable score gains
 
 
-- Gold Key, <i>Sophomore Lead</i>
+- Gold Key, <span class="fst-italic text-uppercase align-middle" style="color: rebeccapurple;">Sophomore Lead</span>
 
 
-- “Ergasterion” – Theater & Drama Club, <i>Stage Crew & Member</i>
+- “Ergasterion” – Theater & Drama Club, <span class="fst-italic text-uppercase align-middle" style="color: rebeccapurple;">Stage Crew & Member</span>
 
 
-- Student Council, <i>Member</i>
+- Student Council, <span class="fst-italic text-uppercase align-middle" style="color: rebeccapurple;">Member</span>
 
 
-- World Scholars Cup, <i>Team leader</i>
+- World Scholars Cup, <span class="fst-italic text-uppercase align-middle" style="color: rebeccapurple;">Team leader</span>
   - Led the debate team; won in conferences
 
 
