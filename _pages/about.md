@@ -48,4 +48,4 @@ They are inter-linked and deeply related to **biology**, and **linguistics**.
 
 ### 📫 Contact
 
-- [@chloekim-one](https://github.com/chloekim-one)
+- [@chloekim-one](https://chloekim.one)
