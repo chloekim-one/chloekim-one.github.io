@@ -12,6 +12,8 @@ related_publications: false
 
 <img src='/assets/img/rp/rpc1.jpg' width=800>
 
+<img src='/assets/img/rp/rpc1.jpg'; width: 100%; height: auto; object-fit: cover;>
+
 We analyze approximately 86,000+ legal cases from South Korea (1951–2023) by constructing (complex) citation networks, modeling each case as a node and citation relationships as edges. Through centrality/hub analysis, we identify key hub cases. We extract and analyze a focused subnetwork comprising medical-related cases.
 
 Segmenting the network along presidential cycles reveals that the distribution of medical hub cases changes over time. Cases related to criminal liability in medical accidents were prominent hubs from the late 1990s to early 2000s, whereas subsequent administrations saw civil rulings on patients' rights and institutional responsibilities become new hubs. This analysis illustrates structural reorganization within the network.
