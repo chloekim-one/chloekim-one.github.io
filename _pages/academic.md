@@ -47,7 +47,7 @@ profiles:
 
 -	SAT: 1560
 
-<br>
+<br><br>
 
 -	Awards
     - National Latin Exam Cum Laude and 2x Magna Cum Laude – G9, 10, 11
