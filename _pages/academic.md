@@ -38,6 +38,8 @@ profiles:
 
     ③ {Notable Accomplishment} Honors and Awards in
     Various fields
+
+---
         
 -	Rigorous Courses and Higher GPA
 
