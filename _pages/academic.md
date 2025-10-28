@@ -40,19 +40,19 @@ profiles:
         
 -	Rigorous Courses and Higher GPA
 
--	AP (Chem, US History, Language, Bio, Com-Sci, Statistics, Calculus BC, Latin, etc)
+-	AP: Biology, Chemistry, Statistics, US History, Latin, Language, Computer Science, Calculus BC, and etc.
 
--	SAT 1560
+-	SAT: 1560
 
--	Awards
+-	Honors and Awards
     - National Latin Exam Cum Laude and 2x Magna Cum Laude – G9, 10, 11; National Ethics Bowl Central Division 4th place – G10, 11; State
-      -- 3rd in State for National Economics Challenge – G10; State
-      -- District MSBOA 1st Division (solo) & 1st/2nd Division (quartet) – G9, 10, 11; State NEC – National Economics Challenge; 3rd (D. Ricardo) – G10; State
+    - 3rd in State for National Economics Challenge – G10; State
+    - District MSBOA 1st Division (solo) & 1st/2nd Division (quartet) – G9, 10, 11; State NEC – National Economics Challenge; 3rd (D. Ricardo) – G10; State
 4
-      -- Strickland Writing Award – G9; School
-      -- Dean’s List & Honors – G9, 10, 11; School
-      -- AP Scholar with Distinction Award – G11; School
-      -- World Scholars Cup: Qualified for the global round – 2020-21; National (China
+    - Strickland Writing Award – G9; School
+    - Dean’s List & Honors – G9, 10, 11; School
+    - AP Scholar with Distinction Award – G11; School
+    - World Scholars Cup: Qualified for the global round – 2020-21; National (China
 
 
 
