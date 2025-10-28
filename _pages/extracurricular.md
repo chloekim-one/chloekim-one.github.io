@@ -51,11 +51,13 @@ profiles:
 
 
 <br>
+
 - Linguistics Club, <span class="fst-italic text-uppercase align-middle" style="color: rebeccapurple;">Founder, Co-President</span>
   - Founded Linguistics Club to promote different branches of linguistics; raise awareness of diverse languages; NACLO prep; AI+ Linguistics research
 
 
 <br>
+
 - Ethics Bowl Club, <span class="fst-italic text-uppercase align-middle" style="color: rebeccapurple;">President/Founder</span>
   - Founded club; recruited, hosted state-wide practice events, organized spaces for ethical thinking & dialogue in & out of school & community
 
