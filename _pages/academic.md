@@ -32,11 +32,12 @@ profiles:
 ---
 
     ① Rigorous Course Selection --
- 	      Personal researchers and Classes (stat,bio)
+ 	  Personal researchers and Classes
 
     ② {Academic Perseverance} Growing GPAs
 
-    ③ {Notable Accomplishment} (various) Awards
+    ③ {Notable Accomplishment} Honors and Awards in
+    Various fields
         
 -	Rigorous Courses and Higher GPA
 
@@ -44,7 +45,7 @@ profiles:
 
 -	SAT: 1560
 
--	Honors and Awards
+-	Awards
     - National Latin Exam Cum Laude and 2x Magna Cum Laude – G9, 10, 11; National Ethics Bowl Central Division 4th place – G10, 11; State
     - 3rd in State for National Economics Challenge – G10; State
     - District MSBOA 1st Division (solo) & 1st/2nd Division (quartet) – G9, 10, 11; State NEC – National Economics Challenge; 3rd (D. Ricardo) – G10; State
