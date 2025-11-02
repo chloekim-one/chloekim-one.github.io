@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Four intellectual properties (IPs), software registrations are confrimed (written in python; copyrights are covered).
+Four intellectual properties (IPs), software registrations are confirmed (written in python; copyrights are covered).
