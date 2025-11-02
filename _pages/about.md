@@ -36,7 +36,7 @@ I'm a Kingwood student passionate about **Mind**(Intelligence), **Behaviors**, a
 They are interlinked and closely connected to **cognitive science**, especially across **psychology**, **biology**, and **linguistics**.
 
   
-    - Intended Major: Cognition, Intelligence, Biology, Liguistics
+    - Intended Major: Cognition, Intelligence, Biology, Linguistics
 
     - Interdisciplinary Works -- {AI + linguistics/medical/law}
     
