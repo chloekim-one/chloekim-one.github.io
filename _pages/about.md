@@ -38,7 +38,7 @@ They are interlinked and closely connected to **cognitive science**, especially 
   
     - Intended Major: Cognition, Intelligence, Biology, Liguistics
 
-    - Interdisciplinary Works -- {AI + lingustics/medical/law}
+    - Interdisciplinary Works -- {AI + linguistics/medical/law}
     
     - Notable Proficiency/Capability in researches: 
       Recognition in Academia -- presentations
