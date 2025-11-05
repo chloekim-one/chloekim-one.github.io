@@ -25,7 +25,7 @@ We suggest quantitative investigations into the structural features and dynamic 
   <video controls playsinline preload="metadata"
          style="width:100%;height:auto"
          poster="{{ '/assets/img/ni/n02.jpg' | relative_url }}">
-    <source src="{{ '/assets/videos/chkimeuro.mp4' | relative_url }}" type="video/mp4">
+    <source src="{{ '/assets/videos/chkimeurop.mp4' | relative_url }}" type="video/mp4">
   </video>
   <figcaption style="text-align:center;color:#777">Presentation</figcaption>
 </figure>
