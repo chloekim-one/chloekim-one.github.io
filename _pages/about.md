@@ -6,7 +6,7 @@ subtitle: <a href="https://schools.cranbrook.edu">Cranbrook Kingswood Schools</a
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_n01.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 #    <p>39221 Woodward Avenue</p>
