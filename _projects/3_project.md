@@ -24,7 +24,7 @@ We suggest quantitative investigations into the structural features and dynamic 
 <figure style="margin:0">
   <video controls playsinline preload="metadata" style="width:100%;height:auto"
          poster="{{ '/assets/img/ni/n02.jpg' | relative_url }}">
-    <source src="{{ '/assets/videos/chkimeurop.mp4' | relative_url }}" type="video/mp4">
+    <source src="{{ 'https://github.com/chloekim-one/chloekim-one.github.io/raw/refs/heads/main/assets/video/chkimeurop.mp4' }}" type="video/mp4">
   </video>
   <figcaption style="text-align:center;color:#777">My presentation at EURO 2025</figcaption>
 </figure>
