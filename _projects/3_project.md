@@ -2,7 +2,7 @@
 layout: page
 title: Complexity and AI Analysis of Legal Citations
 description: Complexity and AI Analysis of Medical Legal Citation (AI and Graphs)
-img: assets/img/rp/rpm1.jpg #assets/img/7.jpg
+img: assets/img/ni/n02.jpg #assets/img/rp/rpm1.jpg #assets/img/7.jpg
 importance: 1
 category: work
 related_publications: false
