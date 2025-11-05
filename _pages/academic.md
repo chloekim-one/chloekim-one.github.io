@@ -20,7 +20,7 @@ profiles:
     #  <p>123 your address street</p>
     #  <p>Your City, State 12345</p>
   - align: left
-    image: prof_pic2.jpg
+    image: prof_pic_fn01.jpg #prof_pic2.jpg
     #content: about_einstein.md
     #more_info: DEF
 
