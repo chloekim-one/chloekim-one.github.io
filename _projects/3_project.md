@@ -27,7 +27,7 @@ We suggest quantitative investigations into the structural features and dynamic 
          poster="{{ '/assets/img/ni/n02.jpg' | relative_url }}">
     <source src="{{ '/assets/videos/chkimeurop.mp4' | relative_url }}" type="video/mp4">
   </video>
-  <figcaption style="text-align:center;color:#777">Presentation</figcaption>
+  <figcaption style="text-align:center;color:#777">My presentation at EURO 2025</figcaption>
 </figure>
 
 
