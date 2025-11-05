@@ -21,5 +21,14 @@ From an optimization perspective, we apply the minimum dominating set (MDS) appr
 We suggest quantitative investigations into the structural features and dynamic evolution of legal citation networks in the medical domain. These provide practical implications for legal and policy decision-making in healthcare governance.
 
 
+<figure style="margin:0">
+  <video controls playsinline preload="metadata"
+         style="width:100%;height:auto"
+         poster="{{ '/assets/img/ni/n02.jpg' | relative_url }}">
+    <source src="{{ '/assets/videos/chkimeuro.mp4' | relative_url }}" type="video/mp4">
+  </video>
+  <figcaption style="text-align:center;color:#777">Presentation</figcaption>
+</figure>
+
 
 -- My presentation material is available on request.
