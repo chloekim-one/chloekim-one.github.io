@@ -45,8 +45,6 @@ profiles:
 
 -	SAT: 1560
 
-<br><br><br>
-
 -	Awards
     - National Latin Exam Cum Laude and 2x Magna Cum Laude – G9, 10, 11
     - National Ethics Bowl Central Division 4th place – G10, 11; State
