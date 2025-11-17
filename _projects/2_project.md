@@ -2,7 +2,7 @@
 layout: page
 title: AI on Mallampati Scoring and Endoscopy
 description: Interpretability for Automated Mallampati Scoring and Endoscopy
-img: assets/img/rp/rpm2.jpg #assets/img/3.jpg
+img: assets/img/rp/rpm2f.jpg #assets/img/3.jpg
 importance: 2
 category: work
 related_publications: false
