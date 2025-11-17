@@ -2,7 +2,7 @@
 layout: page
 title: Intuition and Semantic Reasoning in AI
 description: Intuition and Semantic Reasoning in AI
-img: assets/img/rp/rpm3.jpg #assets/img/12.jpg
+img: assets/img/rp/rpm3f.jpg #assets/img/12.jpg
 importance: 3
 category: work
 related_publications: false
