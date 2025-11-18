@@ -17,13 +17,13 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Cognitive Science & Psychology
+    - title: Cognitive Science & Psychology & Anthropology
       items:
         - Cognition
         - Intelligence
         - Reasoning
         - Mind
-    - title: Biology & Linguistics
+    - title: Linguistics & Biology
       items:
         - Language Evolution
         - Social applications of AI
