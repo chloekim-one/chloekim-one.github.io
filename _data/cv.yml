@@ -116,7 +116,7 @@
   type: time_table
   contents:
     - title: "Dynamic Network and AI Analysis of Legal Citation Networks (especially medical)"
-      institution: "Presented at EURO-2025 (34th European Conference on Operational Research)"
+      institution: "Presented at EURO 2025 (34th European Conference on Operational Research)"
       year: 2024 - Present
       description:
         - "Analyzed 86,000+ Supreme Court cases using network and power-law analysis, showing concentrated reliance on landmark precedents."
@@ -173,3 +173,4 @@
         - "Ms. D. Viles — Social Studies and Humanities"
         - "Mr. M. Amoako — AI Strategist"
         - "Mr. S. Kim — Attorney Law, Partner"
+        - "Mr. C. Bryant"
