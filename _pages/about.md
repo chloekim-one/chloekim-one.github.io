@@ -50,9 +50,9 @@ They are interlinked and closely connected to **cognitive science**, especially 
 
 That question found me early --living in Cambridge, Seoul, and Nanjing-- observing people without speaking their language. Since then, I’ve been drawn to how people think, how machines process, and what happens when the two intersect.
 
-As I moved between Korea, China, and the U.S., I began noticing how culture, language, and logic shape decisions. This led me to research in **AI and cognitive science**, especially where algorithms interact with human behavior. One project analyzed Korean medical lawsuits to find legal “hub cases” using AI—only to realize that accuracy alone isn’t enough. What matters is understanding people.
+As I moved between Korea, China, and the U.S., I began noticing how culture, language, and logic shape decisions. This led me to research in **AI and cognitive science**, especially where algorithms interact with human behavior. One project analyzed Korean medical lawsuits to find legal “hub cases” using AI, and moreover realized that accuracy alone isn’t enough. What matters is understanding people.
 
-Through missteps—imbalanced data, failed models, doubts before conferences—I learned to stay with questions even when answers are unclear. And that’s what drives me: using technology not just to solve problems, but to understand how humans reason, decide, and relate.
+Through missteps, such as imbalanced data, failed models, doubts before conferences, I learned to stay with questions even when answers are unclear. And that’s what drives me: using technology not just to solve problems, but to understand how humans reason, decide, and relate.
 
 I believe the future of AI isn't just about intelligence—it's about **intuition, empathy, and ethics**. That’s the space I want to be in. This website is my way of sharing that journey.
 
