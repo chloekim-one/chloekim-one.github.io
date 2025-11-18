@@ -97,6 +97,12 @@
       description:
         - "Quantifies AI risks (factuality, logical/semantic consistency, bias) into actuarial metrics."
         - "AI Insurance – recompensation for AI hallucination"
+    - title: "Systems and Methods for Temporal Influence Scoring of Judicial Decisions"
+      institution: "Sole Inventor, #10-2025-0166979, patent pending (Korea)"
+      year: Patent
+      description:
+        - "Builds a dated, directed legal-citation index; computes influence measures (adoption/impact)."
+        - "Retrieval via structure-weighted rankings and rolling-window alerts that surface pivotal precedents."
     - title: Network dynamics, power-law & inequality study
       institution: "Sole Developer, Four registrations"
       year: SW Registration
