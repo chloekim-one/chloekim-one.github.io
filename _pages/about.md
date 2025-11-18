@@ -63,5 +63,5 @@ Welcome again!
 
 ### 📫 Contact
 
-- [@ckim26@cranbrook.edu](ckim26@cranbrook.edu)
+- [ckim26@cranbrook.edu](ckim26@cranbrook.edu)
 - [@chloekim-one](https://chloekim.one)
