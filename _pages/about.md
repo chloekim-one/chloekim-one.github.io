@@ -54,7 +54,7 @@ As I moved between Korea, China, and the U.S., I began noticing how culture, lan
 
 Through missteps, such as imbalanced data, failed models, doubts before conferences, I learned to stay with questions even when answers are unclear. And that’s what drives me: using technology not just to solve problems, but to understand how humans reason, decide, and relate.
 
-I believe the future of AI isn't just about intelligence—it's about **intuition, empathy, and ethics**. That’s the space I want to be in. This website is my way of sharing that journey.
+I believe the future of AI isn't just about intelligence. It's about **intuition, empathy, and ethics**. That’s the space I want to be in. This website is my way of sharing that journey.
 
 Welcome again!
 
