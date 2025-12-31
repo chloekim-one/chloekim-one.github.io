@@ -48,7 +48,7 @@ They are interlinked and closely connected to **cognitive science**, especially 
 
 "Why do people make different decisions even when seeing the same facts?"
 
-That question found me early --living in Cambridge, Seoul, and Nanjing-- observing people without speaking their language. Since then, I’ve been drawn to how people think, how machines process, and what happens when the two intersect.
+That question found me early --living in Cambridge/Boston, Seoul, and Nanjing-- observing people without speaking their language. Since then, I’ve been drawn to how people think, how machines process, and what happens when the two intersect.
 
 As I moved between Korea, China, and the U.S., I began noticing how culture, language, and logic shape decisions. This led me to research in **AI**(intelligence) and **cognitive science**, especially where algorithms interact with human behavior. One project analyzed Korean medical lawsuits to find legal “hub cases” using AI, and moreover realized that accuracy alone isn’t enough. What matters is understanding people.
 
