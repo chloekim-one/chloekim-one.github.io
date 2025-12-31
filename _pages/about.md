@@ -31,7 +31,7 @@ latest_posts:
 
 
 Welcome to my website.  
-I'm a Kingwood student passionate about **Mind**(Intelligence), **Behaviors**, and **Brain**. 
+I'm a Kingwood student passionate about **Intelligence(Mind)**, **Behaviors**, and **Brain**. 
 
 They are interlinked and closely connected to **cognitive science**, especially across **linguistics**, **psychology**, **anthropology**, and **biology**.
 
