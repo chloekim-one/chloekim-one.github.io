@@ -18,4 +18,19 @@ profiles:
 
 
 
+<figure style="margin:0">
+
+  <video
+    controls
+    playsinline
+    preload="metadata"
+    controlslist="nodownload noplaybackrate noremoteplayback"
+    disablepictureinpicture
+    oncontextmenu="return false;"
+    style="width:100%;height:auto"
+    poster="{{ '/assets/img/ni/n02.jpg' | relative_url }}">
+    <source src="{{ 'https://raw.githubusercontent.com/chloekim-one/chloekim-one.github.io/main/assets/video/chloekimIntro.mp4' }}" type="video/mp4">
+  </video>
+  <figcaption style="text-align:center;color:#777">My Intro.</figcaption>
+</figure>
 
