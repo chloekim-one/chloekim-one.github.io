@@ -14,10 +14,6 @@ profiles:
 # <a class="snapchat" style="margin: 5px 5px 0 -2px;" target="_blank" href="#">Hover for effect<img src="http://i.utdstc.com/icons/256/snapchat-android.png" /></a>
 ---
 
-<a href='/assets/img/bg.jpg'><img class="rp" src='/assets/img/bg.jpg'></a>
-
-
-
 <figure style="margin:0">
 
   <video
@@ -33,4 +29,12 @@ profiles:
   </video>
   <figcaption style="text-align:center;color:#777">My Intro.</figcaption>
 </figure>
+
+
+
+<a href='/assets/img/bg.jpg'><img class="rp" src='/assets/img/bg.jpg'></a>
+
+
+
+
 
