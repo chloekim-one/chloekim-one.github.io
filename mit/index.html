@@ -2,13 +2,18 @@
     initTheme();
 </script> 
 <style>
-/* ===== 리스트 ===== */
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
 .section-list {
   margin: 0;
   padding-left: 1.2em;
 }
 
-/* ===== 이미지: 페이지 전체 기준 가운데 정렬 ===== */
+/* 페이지(뷰포트) 기준 가운데 정렬 + 줄바꿈 */
 .img-wrap {
   width: 100vw;
   position: relative;
@@ -16,31 +21,21 @@
   transform: translateX(-50%);
   display: flex;
   justify-content: center;
+  align-items: center;
   gap: 20px;
   margin-top: 1em;
+  flex-wrap: wrap;
 }
 
-/* ===== 이미지: 화면보다 크면 줄이기 ===== */
-.img-wrap img {
-  max-width: 100%;   /* 🔑 핵심 */
-  height: auto;      /* 비율 유지 */
+/* ✅ 다른 CSS/인라인 width를 최대한 이겨서 "화면에 맞게 줄이기" */
+.section-list .img-wrap img {
+  width: auto !important;        /* 고정 width 덮어쓰기 */
+  height: auto !important;       /* 고정 height 덮어쓰기 */
+  max-width: 90vw !important;    /* 화면보다 크면 무조건 축소 */
   border: 2px solid #ccc;
   box-sizing: border-box;
   display: block;
 }
-
-/* ===== 모바일: 줄바꿈만 허용 ===== */
-@media (max-width: 768px) {
-  .img-wrap {
-    flex-wrap: wrap;
-  }
-}
-
-/* ===== 가로 스크롤 방지 보험 ===== */
-html, body {
-  overflow-x: hidden;
-}
-    
 </style>
 </head> <body class="fixed-top-nav "> <header> <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top" role="navigation"> <div class="container"> <a class="navbar-brand title font-weight-lighter" href="/"> Chloe Kim </a> <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> </button> <div class="collapse navbar-collapse text-right" id="navbarNav"> <ul class="navbar-nav ml-auto flex-nowrap"> <li class="nav-item "> <a class="nav-link" href="/">about </a> </li> <li class="nav-item"> <a class="nav-link" href="/resume/">resume </a> </li> <li class="nav-item active"> <a class="nav-link" href="/mit/">mit <span class="sr-only">(current)</span> </a> </li> <li class="nav-item "> <a class="nav-link" href="/researches/">researches </a> </li> <li class="nav-item "> <a class="nav-link" href="/museums/">museums </a> </li> <li class="nav-item "> <a class="nav-link" href="/travel/">travels </a> </li> <li class="nav-item "> <a class="nav-link" href="/ecs/">act. &amp; serv. </a> </li> <li class="nav-item "> <a class="nav-link" href="/academics/">academics </a> </li> <li class="nav-item "> <a class="nav-link" href="/others/">others </a> </li> <li class="nav-item"> <button id="search-toggle" title="Search" onclick="openSearchModal()"> <span class="nav-link">ctrl k <i class="ti ti-search"></i></span> </button> </li> <li class="toggle-container"> <button id="light-toggle" title="Change theme"> <i class="ti ti-sun-moon" id="light-toggle-system"></i> <i class="ti ti-moon-filled" id="light-toggle-dark"></i> <i class="ti ti-sun-filled" id="light-toggle-light"></i> </button> </li> </ul> </div> </div> </nav> <progress id="progress" value="0"> <div class="progress-container"> <span class="progress-bar"></span> </div> </progress> </header>      
       
