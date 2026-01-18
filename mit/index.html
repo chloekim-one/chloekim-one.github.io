@@ -8,12 +8,13 @@ html, body {
   overflow-x: hidden;
 }
 
+/* 리스트 */
 .section-list {
   margin: 0;
   padding-left: 1.2em;
 }
 
-/* 페이지(뷰포트) 기준 가운데 정렬 + 줄바꿈 */
+/* 페이지 기준 가운데 정렬 */
 .img-wrap {
   width: 100vw;
   position: relative;
@@ -27,15 +28,17 @@ html, body {
   flex-wrap: wrap;
 }
 
-/* ✅ 다른 CSS/인라인 width를 최대한 이겨서 "화면에 맞게 줄이기" */
+/* 🔥 rp를 완전히 덮어씀 */
 .section-list .img-wrap img {
-  width: auto !important;        /* 고정 width 덮어쓰기 */
-  height: auto !important;       /* 고정 height 덮어쓰기 */
-  max-width: 90vw !important;    /* 화면보다 크면 무조건 축소 */
+  width: auto !important;
+  height: auto !important;
+  max-width: 90vw !important;   /* 화면 기준으로 줄이기 */
+  object-fit: contain !important; /* cover 제거 */
   border: 2px solid #ccc;
   box-sizing: border-box;
   display: block;
 }
+
 </style>
 </head> <body class="fixed-top-nav "> <header> <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top" role="navigation"> <div class="container"> <a class="navbar-brand title font-weight-lighter" href="/"> Chloe Kim </a> <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> </button> <div class="collapse navbar-collapse text-right" id="navbarNav"> <ul class="navbar-nav ml-auto flex-nowrap"> <li class="nav-item "> <a class="nav-link" href="/">about </a> </li> <li class="nav-item"> <a class="nav-link" href="/resume/">resume </a> </li> <li class="nav-item active"> <a class="nav-link" href="/mit/">mit <span class="sr-only">(current)</span> </a> </li> <li class="nav-item "> <a class="nav-link" href="/researches/">researches </a> </li> <li class="nav-item "> <a class="nav-link" href="/museums/">museums </a> </li> <li class="nav-item "> <a class="nav-link" href="/travel/">travels </a> </li> <li class="nav-item "> <a class="nav-link" href="/ecs/">act. &amp; serv. </a> </li> <li class="nav-item "> <a class="nav-link" href="/academics/">academics </a> </li> <li class="nav-item "> <a class="nav-link" href="/others/">others </a> </li> <li class="nav-item"> <button id="search-toggle" title="Search" onclick="openSearchModal()"> <span class="nav-link">ctrl k <i class="ti ti-search"></i></span> </button> </li> <li class="toggle-container"> <button id="light-toggle" title="Change theme"> <i class="ti ti-sun-moon" id="light-toggle-system"></i> <i class="ti ti-moon-filled" id="light-toggle-dark"></i> <i class="ti ti-sun-filled" id="light-toggle-light"></i> </button> </li> </ul> </div> </div> </nav> <progress id="progress" value="0"> <div class="progress-container"> <span class="progress-bar"></span> </div> </progress> </header>      
       
@@ -100,7 +103,7 @@ B. 상단에 1–2줄 “이 페이지 목적” 넣기
 <hr> <ul> <li> <p>AP: Language, Biology, Latin, Statistics, Computer Science, Calculus BC, US History, Chemistry, and etc.</p> </li> <li> <p>SAT: 1560</p> </li> <li> <p>Awards</p> <ul> <li>National Merit semifinalist – National</li> <li>National Latin Exam Cum Laude and 2x Magna Cum Laude – G9, 10, 11</li> <li>National Ethics Bowl Central Division 4th place – G10, 11; State</li> <li>3rd in State for National Economics Challenge – G10; State</li> <li>District MSBOA 1st Division (solo) &amp; 1st/2nd Division (quartet) – G9, 10, 11; State NEC – National Economics Challenge; 3rd (D. Ricardo) – G10; State 4</li> <li>Strickland Writing Award – G9; School</li> <li>Dean’s List &amp; Honors – G9, 10, 11; School</li> <li>AP Scholar with Distinction Award – G10, G11; National</li> <li>World Scholars Cup: Qualified for the global round – 2020-21; National (Nationwide China)</li> </ul> </li> </ul> </div> </article> </div> </article> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 Chloe Kim. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. </div> </footer> 
 -->    
 
-<ul class="section-list" id="contents"><li>Resume (Academic focus) <div class="img-wrap"><img class="rp" src="/mit/figs/c01.jpg" alt=""><br> <img src="/mit/figs/c02.jpg" alt=""><br> <img src="/mit/figs/c03.jpg" alt=""><br> <img src="/mit/figs/c04.jpg" alt=""></div> </li> 
+<ul class="section-list" id="contents"><li>Resume (Academic focus) <div class="img-wrap"><img src="/mit/figs/c01.jpg" alt=""><br> <img src="/mit/figs/c02.jpg" alt=""><br> <img src="/mit/figs/c03.jpg" alt=""><br> <img src="/mit/figs/c04.jpg" alt=""></div> </li> 
     <li>Research Abstracts <div class="img-wrap"><img src="/mit/figs/c05.jpg" alt=""><br> <img src="/mit/figs/c06.jpg" alt=""><br> <img src="/mit/figs/c07.jpg" alt=""><br> <img src="/mit/figs/c07.jpg" alt=""><br> <img src="/mit/figs/c08.jpg" alt=""><br> <img src="/mit/figs/c09.jpg" alt=""><br> <img src="/mit/figs/c10.jpg" alt=""><br> <img src="/mit/figs/c11.jpg" alt=""><br> <img src="/mit/figs/c12.jpg" alt=""><br> <img src="/mit/figs/c13.jpg" alt=""></div> </li> 
     <li>Slide Deck </li>
     <li>Full Papers (Manuscripts): available in the <a href="#contents">PDF linked above</a>.</li></ul>
