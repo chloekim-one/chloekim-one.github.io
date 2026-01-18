@@ -25,6 +25,22 @@
   display: block;
   object-fit: contain !important; /* 기존 cover 무력화 */
 }
+
+/* ==== FINAL PATCH: rp 이미지는 어디에 있든 화면폭에 맞춰 줄이기 ==== */
+img.rp {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+
+  /* 핵심: 줄이기 */
+  width: 90vw !important;       /* 무조건 줄이기(모바일/데스크톱 공통) */
+  max-width: 90vw !important;   /* 혹시 모를 덮어쓰기 방지 */
+  height: auto !important;
+
+  border: 2px solid #ccc;
+  box-sizing: border-box;
+  object-fit: contain !important; /* 기존 cover 무력화 */
+}    
 </style>
 </head> <body class="fixed-top-nav "> <header> <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top" role="navigation"> <div class="container"> <a class="navbar-brand title font-weight-lighter" href="/"> Chloe Kim </a> <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> </button> <div class="collapse navbar-collapse text-right" id="navbarNav"> <ul class="navbar-nav ml-auto flex-nowrap"> <li class="nav-item "> <a class="nav-link" href="/">about </a> </li> <li class="nav-item"> <a class="nav-link" href="/resume/">resume </a> </li> <li class="nav-item active"> <a class="nav-link" href="/mit/">mit <span class="sr-only">(current)</span> </a> </li> <li class="nav-item "> <a class="nav-link" href="/researches/">researches </a> </li> <li class="nav-item "> <a class="nav-link" href="/museums/">museums </a> </li> <li class="nav-item "> <a class="nav-link" href="/travel/">travels </a> </li> <li class="nav-item "> <a class="nav-link" href="/ecs/">act. &amp; serv. </a> </li> <li class="nav-item "> <a class="nav-link" href="/academics/">academics </a> </li> <li class="nav-item "> <a class="nav-link" href="/others/">others </a> </li> <li class="nav-item"> <button id="search-toggle" title="Search" onclick="openSearchModal()"> <span class="nav-link">ctrl k <i class="ti ti-search"></i></span> </button> </li> <li class="toggle-container"> <button id="light-toggle" title="Change theme"> <i class="ti ti-sun-moon" id="light-toggle-system"></i> <i class="ti ti-moon-filled" id="light-toggle-dark"></i> <i class="ti ti-sun-filled" id="light-toggle-light"></i> </button> </li> </ul> </div> </div> </nav> <progress id="progress" value="0"> <div class="progress-container"> <span class="progress-bar"></span> </div> </progress> </header>      
       
