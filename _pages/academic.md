@@ -41,7 +41,7 @@ profiles:
 
 ---
         
--	AP: Biology, Chemistry, Statistics, US History, Latin, Language, Computer Science, Calculus BC, and etc.
+-	AP: Language, Biology, Latin, Statistics, Computer Science, Calculus BC, US History, Chemistry, and etc.
 
 -	SAT: 1560
 
@@ -54,7 +54,7 @@ profiles:
 4
     - Strickland Writing Award – G9; School
     - Dean’s List & Honors – G9, 10, 11; School
-    - AP Scholar with Distinction Award – G11; National
+    - AP Scholar with Distinction Award – G10, G11; National
     - World Scholars Cup: Qualified for the global round – 2020-21; National (Nationwide China)
 
 
