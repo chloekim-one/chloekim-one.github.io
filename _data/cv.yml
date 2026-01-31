@@ -53,6 +53,59 @@
       year: 2014-03 – 2020-02
       description:
         - English, Violin, Volunteers
+       
+- title: Projects and Researches Presented
+  type: time_table
+  contents:
+    - title: "Dynamic Network and AI Analysis of Legal Citation Networks (especially medical)"
+      institution: "Presented at EURO 2025 (34th European Conference on Operational Research)"
+      year: 2024 - Present
+      description:
+        - "Analyzed 86,000+ Supreme Court cases using network and power-law analysis, showing concentrated reliance on landmark precedents."
+        - "Illustrate how structural citation patterns shape legal & medical decision-making."
+    - title: "Emergent Architecture of Law: Dynamic Network and AI Analysis of Comprehensive and Medical Legal Precedents in South Korea (1951–2023)"
+      institution: "PLOS One: under review (Oct 2025)"
+      year: "2025 (paper)"
+    - title: AI and Human Intuition
+      institution: "Presented at Helmholtz AI 2025"
+      year: 2023 - Present
+      description:
+        - "Title: An Experimental Analysis of Intuition and Semantic Reasoning in Linguistic Visualizations by Humans and AI"
+        - "Compared 40+ multilingual participants with GPT-4 on sound-to-shape tasks, revealinghumans’ intuitive mappings vs. AI’s semantic reasoning."
+        - "Findings support dual-mode cognition, highlighting differences in human and machine decision-making."
+    - title: "Linguistic Inputs, Visual Outputs: Human Intuition and AI (LLM) Semantic Reasoning in Shape Imagination"
+      institution: "Cognitive Systems Research: under review (Dec 2025)"
+      year: "2025 (paper)"
+    - title: Mallapati Score and Medical Endoscopes
+      institution: "Presented at Helmholtz AI 2025, Spotlight Presentation"
+      year: 2023 - 2025
+      description:
+        - "Title: Multimodal Deep Learnings and Interpretability for Automated Mallampati Scoring and Endoscopy Prediction"
+        - "Results demonstrate scalable, interpretable AI for airway management, highlighting con- trasts between human judgment and standardized decision-making."
+
+- title: Intellectual Property
+  type: time_table
+  contents:
+    - title: "System and method for evaluating AI output consistency and providing dynamic insurance"
+      institution: "Sole Inventor, #10-2025-0104581, patent pending (Korea)"
+      year: Patent
+      description:
+        - "Quantifies AI risks (factuality, logical/semantic consistency, bias) into actuarial metrics."
+        - "AI Insurance – recompensation for AI hallucination"
+    - title: "Systems and Methods for Temporal Influence Scoring of Judicial Decisions"
+      institution: "Sole Inventor, #10-2025-0166979, patent pending (Korea)"
+      year: Patent
+      description:
+        - "Builds a dated, directed legal-citation index; computes influence measures (adoption/impact)."
+        - "Retrieval via structure-weighted rankings and rolling-window alerts that surface pivotal precedents."
+    - title: Network dynamics, power-law & inequality study
+      institution: "Sole Developer, Four (4) registrations"
+      year: SW Registrations
+      description:
+        - "Interpreting Social Intent and Behavior: Temporal Dynamics of Network Heatmaps (#035490)"
+        - "Analysis of Social Intentionality: Visualization of Case-law Networks (#035307)"
+        - "Simulation of Behavioral Relationships in Power-law Dynamics using AI (#035489)"
+        - "Inequalities in Human Behavior: A Graph-based and AI Interpretation (#034662)"
 
 - title: Work & Research Experience
   type: time_table
@@ -87,59 +140,6 @@
       description:
         - Cultural difference and analyses - how we can help people
         - "Culture, Non-profit, Aid"
-
-- title: Intellectual Property
-  type: time_table
-  contents:
-    - title: "System and method for evaluating AI output consistency and providing dynamic insurance"
-      institution: "Sole Inventor, #10-2025-0104581, patent pending (Korea)"
-      year: Patent
-      description:
-        - "Quantifies AI risks (factuality, logical/semantic consistency, bias) into actuarial metrics."
-        - "AI Insurance – recompensation for AI hallucination"
-    - title: "Systems and Methods for Temporal Influence Scoring of Judicial Decisions"
-      institution: "Sole Inventor, #10-2025-0166979, patent pending (Korea)"
-      year: Patent
-      description:
-        - "Builds a dated, directed legal-citation index; computes influence measures (adoption/impact)."
-        - "Retrieval via structure-weighted rankings and rolling-window alerts that surface pivotal precedents."
-    - title: Network dynamics, power-law & inequality study
-      institution: "Sole Developer, Four (4) registrations"
-      year: SW Registrations
-      description:
-        - "Interpreting Social Intent and Behavior: Temporal Dynamics of Network Heatmaps (#035490)"
-        - "Analysis of Social Intentionality: Visualization of Case-law Networks (#035307)"
-        - "Simulation of Behavioral Relationships in Power-law Dynamics using AI (#035489)"
-        - "Inequalities in Human Behavior: A Graph-based and AI Interpretation (#034662)"
-        
-- title: Projects and Researches Presented
-  type: time_table
-  contents:
-    - title: "Dynamic Network and AI Analysis of Legal Citation Networks (especially medical)"
-      institution: "Presented at EURO 2025 (34th European Conference on Operational Research)"
-      year: 2024 - Present
-      description:
-        - "Analyzed 86,000+ Supreme Court cases using network and power-law analysis, showing concentrated reliance on landmark precedents."
-        - "Illustrate how structural citation patterns shape legal & medical decision-making."
-    - title: "Emergent Architecture of Law: Dynamic Network and AI Analysis of Comprehensive and Medical Legal Precedents in South Korea (1951–2023)"
-      institution: "PLOS One: under review (Oct 2025)"
-      year: "2025 (paper)"
-    - title: AI and Human Intuition
-      institution: "Presented at Helmholtz AI 2025"
-      year: 2023 - Present
-      description:
-        - "Title: An Experimental Analysis of Intuition and Semantic Reasoning in Linguistic Visualizations by Humans and AI"
-        - "Compared 40+ multilingual participants with GPT-4 on sound-to-shape tasks, revealinghumans’ intuitive mappings vs. AI’s semantic reasoning."
-        - "Findings support dual-mode cognition, highlighting differences in human and machine decision-making."
-    - title: "Linguistic Inputs, Visual Outputs: Human Intuition and AI (LLM) Semantic Reasoning in Shape Imagination"
-      institution: "Cognitive Systems Research: under review (Dec 2025)"
-      year: "2025 (paper)"
-    - title: Mallapati Score and Medical Endoscopes
-      institution: "Presented at Helmholtz AI 2025, Spotlight Presentation"
-      year: 2023 - 2025
-      description:
-        - "Title: Multimodal Deep Learnings and Interpretability for Automated Mallampati Scoring and Endoscopy Prediction"
-        - "Results demonstrate scalable, interpretable AI for airway management, highlighting con- trasts between human judgment and standardized decision-making."
 
 - title: Volunteer
   type: list
