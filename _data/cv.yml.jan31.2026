@@ -1,0 +1,182 @@
+- title: General Information
+  type: map
+  contents:
+    - name: "<span class=fw-bold fst-italic text-uppercase align-middle style=color: rebeccapurple;>Name</span>"
+      value: Chloe Kim
+    - name: Email
+      value: "ckim26[at]cranbrook.edu"
+    - name: Web
+      value: "chloekim.one"
+    - name: Location
+      value: "Bloomfield Hills, Michigan"
+    - name: Focus
+      value: "AI × Human Decision-making under Uncertainty & Fairness"
+    - name: Languages
+      value: "English (Native), Korean (Native), Chinese (Fluent), Latin (NLE Latin IV), French (Intermediate), Japanese (Intermediate)"
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Cognitive Science & Psychology & Anthropology
+      items:
+        - Cognition
+        - Intelligence
+        - Reasoning
+        - Mind
+    - title: Linguistics & Biology
+      items:
+        - Language Evolution
+        - Social applications of AI
+        - Medical and public health
+        - Ecology
+        
+- title: Education
+  type: time_table
+  contents:
+    - title: Cranbrook Kingswood Upper School
+      institution: High School (Bloomfield Hills, MI)
+      year: 2022-08 – 2026-07
+      description:
+        - Humanities, AI, Biology, Linguistics
+    - title: Harvard University
+      institution: Summer School - Undergraduate studies (Cambridge, MA)
+      year: 2024-07 - 2024-08
+      description:
+        - "Molecular Biology and Historical Linguistics"
+    - title: 南京时代双语学校 (Nanjing Times School)
+      institution: Middle school (Nanjing, China)
+      year: 2020-03 – 2022-06
+      description:
+        - English, Chinese, Design, Humanities
+    - title: Kyunghee School
+      institution: Elementary School (Seoul, Korea)
+      year: 2014-03 – 2020-02
+      description:
+        - English, Violin, Volunteers
+
+- title: Work & Research Experience
+  type: time_table
+  contents:
+    - title: Research Intern
+      institution: Lawfirm Hoam (Seoul, Korea)
+      year: 2024-03 – present
+      description:
+        - Network analyses on medical lawsuit cases in Korea (1960–2023) - Hub cases
+        - "Network, Complexity, Medical Law"
+    - title: Research Intern
+      institution: Quilt.ai (Boston, MA & NYC, NY)
+      year: 2024-06 – 2025-10
+      description:
+        - AI applications on Fashion and Narrative making
+        - "AI, Fashion, Narratives"
+    - title: "Assistant Editor/Supporter"
+      institution: Media art Yeseung Lee’s team (Seoul, Korea)
+      year: 2025-05 – present
+      description:
+        - AI coding for data deidentification and related laws
+        - "Edited artist statements and exhibition texts (Singapore, Seoul Dongdaemun Design Plaza (DDP), National Museum of Modern Art (MMCA) exhibitions)"
+    - title: Research Intern
+      institution: Elroi.ai (Ann Arbor, MI)
+      year: 2025-05 – 2025-12
+      description:
+        - AI coding for data deidentification and related laws
+        - "AI, Data privacy"
+    - title: Intern
+      institution: Herring Insights, Inc. (Newton, MA)
+      year: 2024-06 – 2024-10
+      description:
+        - Cultural difference and analyses - how we can help people
+        - "Culture, Non-profit, Aid"
+
+- title: Intellectual Property
+  type: time_table
+  contents:
+    - title: "System and method for evaluating AI output consistency and providing dynamic insurance"
+      institution: "Sole Inventor, #10-2025-0104581, patent pending (Korea)"
+      year: Patent
+      description:
+        - "Quantifies AI risks (factuality, logical/semantic consistency, bias) into actuarial metrics."
+        - "AI Insurance – recompensation for AI hallucination"
+    - title: "Systems and Methods for Temporal Influence Scoring of Judicial Decisions"
+      institution: "Sole Inventor, #10-2025-0166979, patent pending (Korea)"
+      year: Patent
+      description:
+        - "Builds a dated, directed legal-citation index; computes influence measures (adoption/impact)."
+        - "Retrieval via structure-weighted rankings and rolling-window alerts that surface pivotal precedents."
+    - title: Network dynamics, power-law & inequality study
+      institution: "Sole Developer, Four (4) registrations"
+      year: SW Registrations
+      description:
+        - "Interpreting Social Intent and Behavior: Temporal Dynamics of Network Heatmaps (#035490)"
+        - "Analysis of Social Intentionality: Visualization of Case-law Networks (#035307)"
+        - "Simulation of Behavioral Relationships in Power-law Dynamics using AI (#035489)"
+        - "Inequalities in Human Behavior: A Graph-based and AI Interpretation (#034662)"
+        
+- title: Projects and Researches Presented
+  type: time_table
+  contents:
+    - title: "Dynamic Network and AI Analysis of Legal Citation Networks (especially medical)"
+      institution: "Presented at EURO 2025 (34th European Conference on Operational Research)"
+      year: 2024 - Present
+      description:
+        - "Analyzed 86,000+ Supreme Court cases using network and power-law analysis, showing concentrated reliance on landmark precedents."
+        - "Illustrate how structural citation patterns shape legal & medical decision-making."
+    - title: "Emergent Architecture of Law: Dynamic Network and AI Analysis of Comprehensive and Medical Legal Precedents in South Korea (1951–2023)"
+      institution: "PLOS One: under review (Oct 2025)"
+      year: "2025 (paper)"
+    - title: AI and Human Intuition
+      institution: "Presented at Helmholtz AI 2025"
+      year: 2023 - Present
+      description:
+        - "Title: An Experimental Analysis of Intuition and Semantic Reasoning in Linguistic Visualizations by Humans and AI"
+        - "Compared 40+ multilingual participants with GPT-4 on sound-to-shape tasks, revealinghumans’ intuitive mappings vs. AI’s semantic reasoning."
+        - "Findings support dual-mode cognition, highlighting differences in human and machine decision-making."
+    - title: "Linguistic Inputs, Visual Outputs: Human Intuition and AI (LLM) Semantic Reasoning in Shape Imagination"
+      institution: "Cognitive Systems Research: under review (Dec 2025)"
+      year: "2025 (paper)"
+    - title: Mallapati Score and Medical Endoscopes
+      institution: "Presented at Helmholtz AI 2025, Spotlight Presentation"
+      year: 2023 - 2025
+      description:
+        - "Title: Multimodal Deep Learnings and Interpretability for Automated Mallampati Scoring and Endoscopy Prediction"
+        - "Results demonstrate scalable, interpretable AI for airway management, highlighting con- trasts between human judgment and standardized decision-making."
+
+- title: Volunteer
+  type: list
+  contents:
+    - Please refer to the <a href="https://chloekim.one/ecs/">activites & service section</a>.
+
+- title: Honors and Awards
+  type: list
+  contents:
+    - Please refer to the <a href="https://chloekim.one/academics/">academics section</a>.
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: AI and Data Analytics
+      items:
+        - "Statistics & Data analytics"
+        - "Network and complex system analyses"
+    - title: Technical Computer Science
+      items:
+        - "Java, Python, Julia"
+        - "Applications to Semantics & philosophy"        
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Novel Writing, Drawing
+    - <u>Outdoor Activites:</u> Rowing, Trekking
+
+- title: References
+  type: nested_list
+  contents:
+    - title: " "
+      items:
+        - "Ms. M. Hallday"
+        - "Mr. S. Baek — Science"
+        - "Ms. D. Viles — Social Studies and Humanities"
+        - "Mr. M. Amoako — AI Strategist"
+        - "Mr. S. Kim — Attorney Law, Partner"
+        - "Mr. C. Bryant"
